@@ -1,0 +1,1353 @@
+{
+ "schema": 1,
+ "poolId": "70e630de-2f4a-4fb4-8cba-6a9ca0923422_1791037926168",
+ "title": "De_Olympia_Y_Khoa_Huyet_hoc_v8_hoan_chinh_da_dan_anh",
+ "subject": "Huyết học",
+ "adminLabel": null,
+ "addedAt": "2026-10-03T14:32:06.168Z",
+ "contributorName": "Nguyễn Lâm",
+ "contentHash": "0e3263ff985a44a1f9b4304f08423ab5f221513247c178e459bd30f21144b8d2",
+ "stats": {
+  "kd": 36,
+  "tt": 4,
+  "vcnv": 4,
+  "vd20": 8,
+  "vd30": 8,
+  "images": 36
+ },
+ "ratingAvg": null,
+ "ratingCount": null,
+ "excelFile": null,
+ "images": [
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_0_0.png",
+   "file": "anh/1-tt_0_0.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_0.png",
+   "file": "anh/2-tt_1_0.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_1.png",
+   "file": "anh/3-tt_1_1.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_2.png",
+   "file": "anh/4-tt_1_2.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_3.png",
+   "file": "anh/5-tt_1_3.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_0.jpg",
+   "file": "anh/6-tt_2_0.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_1.png",
+   "file": "anh/7-tt_2_1.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_2.png",
+   "file": "anh/8-tt_2_2.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_3.jpg",
+   "file": "anh/9-tt_2_3.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_4.jpg",
+   "file": "anh/10-tt_2_4.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_5.png",
+   "file": "anh/11-tt_2_5.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_6.jpg",
+   "file": "anh/12-tt_2_6.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_7.png",
+   "file": "anh/13-tt_2_7.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_8.png",
+   "file": "anh/14-tt_2_8.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_9.png",
+   "file": "anh/15-tt_2_9.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_10.jpg",
+   "file": "anh/16-tt_2_10.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_11.jpg",
+   "file": "anh/17-tt_2_11.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_12.jpg",
+   "file": "anh/18-tt_2_12.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_13.png",
+   "file": "anh/19-tt_2_13.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_14.jpg",
+   "file": "anh/20-tt_2_14.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_0.png",
+   "file": "anh/21-tt_3_0.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_1.png",
+   "file": "anh/22-tt_3_1.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_2.jpg",
+   "file": "anh/23-tt_3_2.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_3.png",
+   "file": "anh/24-tt_3_3.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_4.png",
+   "file": "anh/25-tt_3_4.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_5.png",
+   "file": "anh/26-tt_3_5.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_6.png",
+   "file": "anh/27-tt_3_6.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_7.png",
+   "file": "anh/28-tt_3_7.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_8.jpg",
+   "file": "anh/29-tt_3_8.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_9.jpg",
+   "file": "anh/30-tt_3_9.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_10.jpg",
+   "file": "anh/31-tt_3_10.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_11.jpg",
+   "file": "anh/32-tt_3_11.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_12.png",
+   "file": "anh/33-tt_3_12.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_13.jpg",
+   "file": "anh/34-tt_3_13.jpg"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_14.png",
+   "file": "anh/35-tt_3_14.png"
+  },
+  {
+   "url": "/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/vcnv_bg.jpg",
+   "file": "anh/36-vcnv_bg.jpg"
+  }
+ ],
+ "format": "exam4",
+ "examData": {
+  "meta": {
+   "note": "",
+   "title": "Đề thi (nhập từ Excel)"
+  },
+  "veDich": {
+   "packages": {
+    "20": [
+     {
+      "answer": "Lớp lipid kép",
+      "points": 20,
+      "explain": "Màng hồng cầu có nền lipid kép phối hợp cùng protein màng để duy trì cấu trúc và tính chất cơ học.",
+      "subject": "Sinh lý tế bào máu",
+      "question": "Một hồng cầu phải liên tục biến dạng khi đi qua vi tuần hoàn. Trong các thành phần được mô tả của màng hồng cầu, lớp cấu trúc cơ bản nào tạo nền cho tính mềm dẻo của màng?",
+      "answerAlt": "Lớp lipid kép; Lớp phospholipid kép; Lipid bilayer; Phospholipid bilayer; Lop lipid kep",
+      "altAnswers": [
+       "Lớp lipid kép",
+       "Lớp phospholipid kép",
+       "Lipid bilayer",
+       "Phospholipid bilayer",
+       "Lop lipid kep",
+       "lop phospholipid kep"
+      ],
+      "difficulty": 8.2
+     },
+     {
+      "answer": "Đệm H+",
+      "points": 20,
+      "explain": "Hemoglobin có thể gắn H+ và góp phần đệm acid-base.",
+      "subject": "Sinh lý tế bào máu",
+      "question": "Một hồng cầu vừa vận chuyển O2 vừa tham gia điều hòa acid-base. Ngoài việc mang khí, chức năng nào của hemoglobin giải thích trực tiếp khả năng góp phần ổn định pH máu?",
+      "answerAlt": "Đệm H+; Đệm ion H+; Đệm proton; Buffer H+",
+      "altAnswers": [
+       "Đệm H+",
+       "Đệm ion H+",
+       "Đệm proton",
+       "Buffer H+",
+       "dem h+",
+       "dem ion h+",
+       "dem proton"
+      ],
+      "difficulty": 8.4
+     },
+     {
+      "answer": "GP Ib/IX/V",
+      "points": 20,
+      "explain": "GP Ib/IX/V tham gia kết dính tiểu cầu với vWF trên nền tổn thương mạch.",
+      "subject": "Sinh lý tế bào máu",
+      "question": "Một bệnh nhân chảy máu niêm mạc kéo dài dù số lượng tiểu cầu bình thường. Xét nghiệm chức năng gợi ý giảm kết dính tiểu cầu với thành mạch. Receptor nào của tiểu cầu trực tiếp liên quan bước kết dính qua vWF?",
+      "answerAlt": "GP Ib/IX/V; GPIb/IX/V; GP1b-IX-V; GPIbIXV",
+      "altAnswers": [
+       "GP Ib/IX/V",
+       "GPIb/IX/V",
+       "GP1b-IX-V",
+       "GPIbIXV"
+      ],
+      "difficulty": 8.8
+     },
+     {
+      "answer": "GP IIb/IIIa",
+      "points": 20,
+      "explain": "GP IIb/IIIa gắn fibrinogen và tạo cầu nối giữa các tiểu cầu đã hoạt hóa.",
+      "subject": "Sinh lý tế bào máu",
+      "question": "Sau hoạt hóa, tiểu cầu cần tạo cầu nối với fibrinogen để kết tập. Receptor nào đóng vai trò chính ở bước này?",
+      "answerAlt": "GP IIb/IIIa; GPIIb/IIIa; GP2b/3a; GPIIbIIIa",
+      "altAnswers": [
+       "GP IIb/IIIa",
+       "GPIIb/IIIa",
+       "GP2b/3a",
+       "GPIIbIIIa"
+      ],
+      "difficulty": 8.5
+     },
+     {
+      "answer": "Tủy trắng",
+      "points": 20,
+      "explain": "Tủy trắng là vùng lympho của lách, gắn với các tiểu động mạch trung tâm.",
+      "subject": "Cơ quan tạo máu",
+      "question": "Trên lát cắt lách, vùng mô lympho tập trung quanh tiểu động mạch trung tâm tạo thành phần nào của nhu mô lách?",
+      "answerAlt": "Tủy trắng; Tuỷ trắng; White pulp; Tuy trang",
+      "altAnswers": [
+       "Tủy trắng",
+       "Tuỷ trắng",
+       "White pulp",
+       "Tuy trang"
+      ],
+      "difficulty": 8.1
+     },
+     {
+      "answer": "Tăng",
+      "points": 20,
+      "explain": "Trong thiếu sắt, khả năng gắn sắt toàn bộ thường tăng do tăng transferrin.",
+      "subject": "Chuyển hoá sắt",
+      "question": "Một bệnh nhân thiếu sắt có ferritin thấp. Khi đánh giá khả năng gắn sắt của huyết tương, chỉ số TIBC được dự đoán thay đổi theo hướng nào?",
+      "answerAlt": "Tăng; Tăng lên; Increased; Increase",
+      "altAnswers": [
+       "Tăng",
+       "Tăng lên",
+       "Increased",
+       "Increase",
+       "tang",
+       "tang len"
+      ],
+      "difficulty": 8.3
+     },
+     {
+      "answer": "HbE",
+      "points": 20,
+      "explain": "HbE liên quan đột biến trên chuỗi beta tại acid amin 26.",
+      "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+      "question": "Điện di/HPLC cho thấy một biến thể hemoglobin có đột biến trên chuỗi β tại acid amin 26, khác với HbA ở một vị trí then chốt. Biến thể được nhắc tới trong tài liệu là gì?",
+      "answerAlt": "HbE; Hemoglobin E; Huyết sắc tố E; Hemoglobin type E",
+      "altAnswers": [
+       "HbE",
+       "Hemoglobin E",
+       "Huyết sắc tố E",
+       "Hemoglobin type E",
+       "huyet sac to e"
+      ],
+      "difficulty": 8.7
+     },
+     {
+      "answer": "HPLC",
+      "points": 20,
+      "explain": "HPLC là kỹ thuật được dùng để phân tích các phân suất hemoglobin.",
+      "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+      "question": "Một mẫu máu được yêu cầu định lượng và phân biệt các phân suất hemoglobin thay vì chỉ định lượng Hb toàn phần. Kỹ thuật phân tích phù hợp được nhấn mạnh trong tài liệu là gì?",
+      "answerAlt": "HPLC; Sắc ký lỏng hiệu năng cao; High-performance liquid chromatography; High performance liquid chromatography",
+      "altAnswers": [
+       "HPLC",
+       "Sắc ký lỏng hiệu năng cao",
+       "High-performance liquid chromatography",
+       "High performance liquid chromatography",
+       "sac ky long hieu nang cao"
+      ],
+      "difficulty": 8.2
+     }
+    ],
+    "30": [
+     {
+      "answer": "Mất máu cấp",
+      "points": 30,
+      "explain": "Sau mất máu cấp, nồng độ Hb có thể chưa phản ánh đầy đủ mức mất hồng cầu ngay lập tức; khi dịch được bù và thể tích huyết tương phục hồi tương đối, Hb biểu kiến giảm rõ hơn. Bộ dữ kiện phù hợp với thiếu máu do mất máu cấp hơn là suy giảm sinh hồng cầu.",
+      "subject": "Rối loạn tạo máu",
+      "question": "Nam 24 tuổi vào viện sau một tai nạn giao thông. Trước đó khỏe mạnh, không dùng thuốc thường xuyên. Bệnh nhân mất máu nhiều tại hiện trường, được cầm máu và truyền dịch tinh thể. Khi nhập viện, mạch 122 lần/phút, huyết áp 92/58 mmHg, da lạnh, niêm nhợt. Công thức máu lấy ngay sau khi hồi sức ghi Hb 128 g/L, MCV 88 fL. Sau 8 giờ, dù huyết động ổn định hơn, Hb giảm còn 92 g/L. Không có dấu hiệu xuất huyết tiêu hóa hay tan máu. Bác sĩ trẻ cho rằng mức Hb ban đầu gần bình thường chứng minh thiếu máu chưa đáng kể nên không cần theo dõi tiếp. Tuy nhiên, diễn tiến huyết động và thay đổi Hb theo thời gian khiến nhóm điều trị nghi ngờ một hiện tượng sinh lý bệnh khác với thiếu máu do suy tủy. Câu hỏi: Cách giải thích nào phù hợp nhất cho việc Hb ban đầu chưa giảm rõ nhưng giảm sau hồi sức và theo dõi?\nTheo dõi tiếp cho thấy da lạnh dần cải thiện sau kiểm soát chảy máu, nhưng Hb vẫn thấp hơn so với lúc mới vào viện. Không có bằng chứng cho thấy tủy xương đã kịp tạo ra một lượng hồng cầu mới đáng kể trong vài giờ đầu. Vì vậy, khi diễn giải công thức máu phải đặt kết quả vào bối cảnh thời điểm lấy mẫu, tình trạng thể tích tuần hoàn và lượng dịch đã bù, thay vì dùng một giá trị Hb đơn độc để loại trừ mất máu.",
+      "answerAlt": "Mất máu cấp; Mất máu cấp tính; Cấp cứu mất máu; Acute blood loss; Acute hemorrhage",
+      "altAnswers": [
+       "Mất máu cấp",
+       "Mất máu cấp tính",
+       "Cấp cứu mất máu",
+       "Acute blood loss",
+       "Acute hemorrhage",
+       "mat mau cap",
+       "mat mau cap tinh",
+       "cap cuu mat mau"
+      ],
+      "difficulty": 9.1
+     },
+     {
+      "answer": "Thiếu vitamin B12 gây rối loạn tổng hợp DNA",
+      "points": 30,
+      "explain": "Thiếu B12 làm rối loạn tổng hợp DNA, gây giảm phân chia tế bào tạo máu và thiếu máu hồng cầu to. Khác với thiếu folate đơn thuần, thiếu B12 còn liên quan tổn thương thần kinh, phù hợp với tê bì và giảm cảm giác rung của bệnh nhân.",
+      "subject": "Rối loạn tạo máu",
+      "question": "Nữ 31 tuổi than mệt kéo dài, tê hai bàn chân và khó giữ thăng bằng. Khám thần kinh ghi nhận giảm cảm giác rung ở chi dưới. Hb 86 g/L, MCV 118 fL; phết máu ngoại vi cho thấy hồng cầu to, bạch cầu đa nhân có nhân tăng phân thùy. Ferritin bình thường. Bệnh nhân có tiền sử viêm dạ dày tự miễn và đã nhiều tháng ăn uống kém. Folate huyết thanh không giảm. B12 huyết thanh thấp rõ. Một đồng nghiệp nhận xét rằng chỉ cần bổ sung folate vì cả hai đều gây thiếu máu hồng cầu to. Tuy nhiên, nhóm điều trị lo ngại việc này không giải quyết biểu hiện thần kinh. Câu hỏi: Cơ chế nào giải thích tốt nhất vì sao thiếu vitamin B12 tạo nên kiểu thiếu máu và triệu chứng thần kinh đồng thời?\nBệnh nhân không có tiêu chảy mạn hay bệnh thận; chức năng gan bình thường. Hình thái hồng cầu lớn và bạch cầu đa nhân tăng phân thùy gợi ý rối loạn trưởng thành nhân của tế bào tạo máu. Triệu chứng thần kinh làm khác biệt với thiếu folate trở nên quan trọng về mặt suy luận. Câu trả lời cần giải thích được cả hiện tượng huyết học lẫn tổn thương thần kinh chứ không chỉ nêu “thiếu máu hồng cầu to”.",
+      "answerAlt": "Thiếu vitamin B12 gây rối loạn tổng hợp DNA; Rối loạn tổng hợp DNA do thiếu vitamin B12; Vitamin B12 deficiency causing impaired DNA synthesis; B12 deficiency with impaired DNA synthesis; Rối loạn tổng hợp ADN do thiếu B12",
+      "altAnswers": [
+       "Thiếu vitamin B12 gây rối loạn tổng hợp DNA",
+       "Rối loạn tổng hợp DNA do thiếu vitamin B12",
+       "Vitamin B12 deficiency causing impaired DNA synthesis",
+       "B12 deficiency with impaired DNA synthesis",
+       "Rối loạn tổng hợp ADN do thiếu B12",
+       "thieu vitamin b12 gay roi loan tong hop dna",
+       "roi loan tong hop dna do thieu vitamin b12",
+       "roi loan tong hop adn do thieu b12"
+      ],
+      "difficulty": 9.3
+     },
+     {
+      "answer": "Bệnh bạch cầu mạn dòng tủy (CML)",
+      "points": 30,
+      "explain": "CML được nhận diện bởi tăng sinh dòng tủy với nhiều giai đoạn trưởng thành và dấu ấn BCR-ABL gắn với nhiễm sắc thể Philadelphia. Đây là tổ hợp đặc trưng hơn nhiều so với chỉ dựa vào mức bạch cầu.",
+      "subject": "Rối loạn tạo máu",
+      "question": "Nam 57 tuổi được phát hiện bạch cầu tăng kéo dài qua nhiều lần khám sức khỏe. Bệnh nhân không sốt, không sụt cân, lách to nhẹ. Công thức máu cho thấy bạch cầu tăng cao với nhiều giai đoạn trưởng thành của dòng hạt. Sinh thiết tủy cho thấy tăng sinh dòng tủy. Xét nghiệm phân tử phát hiện gen dung hợp BCR-ABL; nghiên cứu nhiễm sắc thể xác nhận một bất thường thuộc nhiễm sắc thể Philadelphia. Bệnh nhân chưa có bằng chứng rõ của một bệnh bạch cầu cấp. Một người học cho rằng chỉ cần dựa vào số lượng bạch cầu để gọi là bệnh bạch cầu cấp dòng tủy vì bạch cầu rất cao. Câu hỏi: Tổ hợp bằng chứng nào giải thích tốt nhất bản chất bệnh lý của bệnh nhân?\nĐiều quan trọng là số lượng bạch cầu cao không tự nó xác định bệnh bạch cầu cấp. Các tế bào thuộc nhiều giai đoạn trưởng thành, cùng với dấu ấn phân tử đặc hiệu, làm thay đổi hướng chẩn đoán. Nếu bỏ qua thông tin BCR-ABL và nhiễm sắc thể Philadelphia, người học dễ nhầm bệnh cảnh này với một tình trạng tăng bạch cầu phản ứng hoặc một bệnh bạch cầu khác.",
+      "answerAlt": "Bệnh bạch cầu mạn dòng tủy; Bạch cầu mạn dòng tủy; CML; Chronic myeloid leukemia; Chronic myelogenous leukemia",
+      "altAnswers": [
+       "Bệnh bạch cầu mạn dòng tủy",
+       "Bạch cầu mạn dòng tủy",
+       "CML",
+       "Chronic myeloid leukemia",
+       "Chronic myelogenous leukemia",
+       "Bệnh bạch cầu mạn dòng tủy (CML)",
+       "benh bach cau man dong tuy",
+       "bach cau man dong tuy",
+       "benh bach cau man dong tuy (cml)"
+      ],
+      "difficulty": 9.2
+     },
+     {
+      "answer": "Rối loạn chức năng tiểu cầu do aspirin",
+      "points": 30,
+      "explain": "Aspirin có thể làm giảm chức năng tiểu cầu và gây chảy máu niêm mạc dù số lượng tiểu cầu vẫn bình thường. Vì vậy cần phân biệt giảm số lượng với rối loạn chức năng tiểu cầu.",
+      "subject": "Sinh lý tế bào máu / Rối loạn tạo máu",
+      "question": "Nữ 29 tuổi có bầm tím và chảy máu chân răng tái phát. Không có gan lách to. Tiểu cầu 265 ×10^9/L, PT và aPTT bình thường. Bệnh nhân được hỏi kỹ về thuốc và cho biết đã tự dùng aspirin liều thấp hằng ngày trong vài tuần vì đau đầu. Xét nghiệm chức năng tiểu cầu cho thấy giảm đáp ứng kết tập. Một người học nhận xét rằng số lượng tiểu cầu bình thường loại trừ nguyên nhân do tiểu cầu. Tuy nhiên, chảy máu niêm mạc vẫn tiếp tục. Bác sĩ cần xác định mắt xích bị ảnh hưởng để giải thích việc số lượng tế bào vẫn bảo tồn nhưng chức năng cầm máu ban đầu suy giảm. Câu hỏi: Cơ chế nào phù hợp nhất với bộ dữ kiện?\nPT và aPTT bình thường giúp giảm khả năng một rối loạn đông máu đường đông máu là nguyên nhân chính. Việc số lượng tiểu cầu bình thường chỉ cho biết “đủ tế bào”, không chứng minh chức năng kết dính và kết tập còn nguyên vẹn. Thông tin về aspirin vì vậy có giá trị gợi ý cơ chế và cần được tích hợp với biểu hiện chảy máu niêm mạc.",
+      "answerAlt": "Rối loạn chức năng tiểu cầu do aspirin; Rối loạn chức năng tiểu cầu do thuốc; Aspirin-induced platelet dysfunction; Platelet dysfunction due to aspirin; Aspirin gây rối loạn chức năng tiểu cầu",
+      "altAnswers": [
+       "Rối loạn chức năng tiểu cầu do aspirin",
+       "Rối loạn chức năng tiểu cầu do thuốc",
+       "Aspirin-induced platelet dysfunction",
+       "Platelet dysfunction due to aspirin",
+       "Aspirin gây rối loạn chức năng tiểu cầu",
+       "roi loan chuc nang tieu cau do aspirin",
+       "roi loan chuc nang tieu cau do thuoc",
+       "aspirin gay roi loan chuc nang tieu cau"
+      ],
+      "difficulty": 9.3
+     },
+     {
+      "answer": "Beta-thalassemia thể nặng",
+      "points": 30,
+      "explain": "Kiểu thiếu máu nặng từ nhỏ, cần truyền máu nhiều lần, MCV giảm và HbF tăng cao, HbA rất thấp phù hợp beta-thalassemia thể nặng. Rối loạn tổng hợp chuỗi beta làm mất cân bằng globin và gây sinh hồng cầu không hiệu quả.",
+      "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+      "question": "Bé trai 7 tuổi được đưa đến khám vì mệt, da xanh, bụng to dần. Trẻ đã nhiều lần truyền hồng cầu từ những năm đầu đời. Khám thấy gan lách to. Hb 72 g/L. MCV giảm. Điện di/HPLC cho thấy HbA rất thấp trong khi HbF chiếm tỷ lệ cao; bác sĩ không tìm thấy bằng chứng của đột biến HbS. Gia đình cho biết hai anh em họ ở cùng quê từng điều trị truyền máu dài hạn. Bác sĩ giải thích rằng việc giảm tổng hợp một chuỗi globin làm mất cân bằng giữa các chuỗi còn lại, gây sinh hồng cầu không hiệu quả và thiếu máu nặng. Câu hỏi: Rối loạn huyết sắc tố nào phù hợp nhất với toàn bộ biểu hiện và kết quả phân tích hemoglobin?\nBé đã có biểu hiện từ rất sớm và phụ thuộc truyền hồng cầu kéo dài, khác với các thể nhẹ hơn thường được phát hiện tình cờ ở tuổi lớn. MCV giảm cho thấy tình trạng hồng cầu nhỏ song song với rối loạn tổng hợp globin. Mẫu HbF tăng cao là mảnh ghép quan trọng để phân biệt nhóm bệnh này với các rối loạn huyết sắc tố khác trong tài liệu.",
+      "answerAlt": "Beta-thalassemia thể nặng; β-thalassemia thể nặng; Beta thalassemia major; β-thalassemia major; Thalassemia beta thể nặng",
+      "altAnswers": [
+       "Beta-thalassemia thể nặng",
+       "β-thalassemia thể nặng",
+       "Beta thalassemia major",
+       "β-thalassemia major",
+       "Thalassemia beta thể nặng",
+       "beta -thalassemia thể nặng",
+       "b-thalassemia thể nặng",
+       "beta -thalassemia major",
+       "b-thalassemia major",
+       "beta-thalassemia the nang",
+       "β-thalassemia the nang",
+       "thalassemia beta the nang",
+       "beta -thalassemia the nang",
+       "b-thalassemia the nang"
+      ],
+      "difficulty": 9.4
+     },
+     {
+      "answer": "HbS polymer hóa gây hồng cầu hình liềm và tắc vi mạch",
+      "points": 30,
+      "explain": "Đột biến β-globin thay glutamic acid bằng valine tạo HbS. Khi giảm oxy, HbS có xu hướng polymer hóa, làm hồng cầu biến dạng hình liềm; các tế bào cứng và dễ vỡ gây thiếu máu tan máu, đồng thời góp phần tắc vi mạch và gây các cơn đau.",
+      "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+      "question": "Nam 19 tuổi có nhiều đợt đau xương dữ dội từ nhỏ, từng nhập viện vì thiếu máu và vàng da. Hiện tại bệnh nhân đau ngực, khó thở nhẹ sau khi mất nước vì tiêu chảy. Hb 79 g/L, bilirubin gián tiếp tăng, LDH tăng. Không có bằng chứng chảy máu. Xét nghiệm hemoglobin cho thấy một biến thể liên quan đột biến điểm ở chuỗi β; tài liệu của phòng xét nghiệm mô tả sự thay thế glutamic acid bằng valine. Các triệu chứng xảy ra từng đợt và nặng lên trong điều kiện giảm oxy. Nhóm điều trị cần nối dữ kiện phân tử với hiện tượng biến dạng hồng cầu và tắc vi mạch để giải thích cơn đau hiện tại. Câu hỏi: Cơ chế bệnh sinh nào là mắt xích trung tâm giải thích toàn bộ bệnh cảnh?\nCơn đau hiện tại xuất hiện sau mất nước và kèm biểu hiện thiếu máu tan máu mạn. Mấu chốt không nằm ở một chỉ số đơn lẻ mà ở chuỗi liên kết đột biến β-globin → HbS → thay đổi tính chất hemoglobin khi giảm oxy → biến dạng hồng cầu → tắc dòng máu vi tuần hoàn. Đây là cơ chế giải thích đồng thời đau, thiếu máu và tái phát từng đợt.",
+      "answerAlt": "HbS polymer hóa gây hồng cầu hình liềm và tắc vi mạch; HbS polymer hóa gây biến dạng hồng cầu và tắc vi mạch; Polymerization of HbS causing sickling and vaso-occlusion; HbS polymerization with sickling and vaso-occlusion; Polymer hóa HbS gây hồng cầu hình liềm",
+      "altAnswers": [
+       "HbS polymer hóa gây hồng cầu hình liềm và tắc vi mạch",
+       "HbS polymer hóa gây biến dạng hồng cầu và tắc vi mạch",
+       "Polymerization of HbS causing sickling and vaso-occlusion",
+       "HbS polymerization with sickling and vaso-occlusion",
+       "Polymer hóa HbS gây hồng cầu hình liềm",
+       "hbs polymer hoa gay hong cau hinh liem va tac vi mach",
+       "hbs polymer hoa gay bien dang hong cau va tac vi mach",
+       "polymer hoa hbs gay hong cau hinh liem"
+      ],
+      "difficulty": 9.7
+     },
+     {
+      "answer": "Lymphoma Hodgkin",
+      "points": 30,
+      "explain": "Sự hiện diện của tế bào Reed-Sternberg trong nền mô phù hợp là dấu ấn kinh điển của lymphoma Hodgkin, đặc biệt khi kết hợp hạch cổ/trung thất và triệu chứng B.",
+      "subject": "Rối loạn tại cơ quan lympho",
+      "question": "Nữ 40 tuổi có hạch cổ và trung thất to dần trong 4 tháng, không đau. Bệnh nhân sút 6 kg, sốt về chiều và ra mồ hôi đêm. Công thức máu không cho thấy bất thường đặc hiệu. CT ngực cho thấy nhiều hạch trung thất. Sinh thiết trọn hạch cho thấy một quần thể tế bào u trong nền viêm, trong đó có những tế bào rất lớn với hình thái đặc trưng. Bác sĩ giải phẫu bệnh ghi nhận tế bào Reed-Sternberg. Một người học cho rằng chỉ cần gọi là lymphoma không Hodgkin vì có hạch nhiều vùng. Tuy nhiên, đặc điểm mô bệnh học này là chìa khóa phân loại. Câu hỏi: Chẩn đoán phù hợp nhất là gì?\nHình ảnh nhiều hạch không đủ để tự động phân loại lymphoma. Cần đặt tên bệnh dựa trên đặc điểm tế bào u được mô tả trong mẫu sinh thiết. Việc sinh thiết trọn hạch thay vì chỉ dựa vào số lượng hạch giúp có đủ mô để nhận diện kiểu tổn thương. Trong bối cảnh tài liệu này, tế bào Reed-Sternberg là chi tiết quyết định hướng phân loại.\nCác triệu chứng B làm tăng mức độ gợi ý nhưng không thay thế giá trị của mô bệnh học. Việc hạch cổ và trung thất cùng xuất hiện cũng là dữ kiện định khu cần ghi nhận, song câu hỏi yêu cầu chọn chẩn đoán dựa trên toàn bộ bằng chứng đã cho.",
+      "answerAlt": "Lymphoma Hodgkin; Lymphôm Hodgkin; Hodgkin lymphoma; Hodgkin disease; Bệnh Hodgkin",
+      "altAnswers": [
+       "Lymphoma Hodgkin",
+       "Lymphôm Hodgkin",
+       "Hodgkin lymphoma",
+       "Hodgkin disease",
+       "Bệnh Hodgkin",
+       "lymphom hodgkin",
+       "benh hodgkin"
+      ],
+      "difficulty": 9.1
+     },
+     {
+      "answer": "Tăng hepcidin làm giảm ferroportin",
+      "points": 30,
+      "explain": "Hepcidin tăng sẽ gắn vào ferroportin và thúc đẩy protein này bị thoái hóa, làm giảm xuất sắt khỏi enterocyte và đại thực bào vào huyết tương. Cơ chế này làm giảm sắt lưu hành dù tổng lượng sắt dự trữ có thể không thấp.",
+      "subject": "Chuyển hoá sắt",
+      "question": "Nam 52 tuổi có bệnh viêm mạn tính nhiều năm và gần đây mệt, Hb 92 g/L. Ferritin 420 µg/L, transferrin saturation giảm; không có bằng chứng xuất huyết. Bác sĩ nhận thấy sắt dự trữ không thấp nhưng sắt huyết tương sẵn có cho quá trình tạo hồng cầu lại giảm. Xét nghiệm cho thấy tín hiệu điều hòa sắt từ gan tăng. Bệnh nhân không có dấu hiệu quá tải sắt thực sự và cũng không có chỉ điểm cho thiếu sắt tuyệt đối. Nhóm điều trị muốn giải thích vì sao sắt vẫn bị giữ trong tế bào dù cơ thể đang thiếu sắt khả dụng cho tạo máu. Câu hỏi: Mắt xích điều hòa nào giải thích tốt nhất hiện tượng này?\nĐiểm nghịch lý của ca bệnh là ferritin không thấp nhưng sắt có thể sử dụng cho tạo hồng cầu lại giảm. Điều này buộc phải tách “dự trữ sắt” khỏi “sắt lưu hành”. Khi hepcidin tăng, ferroportin ở các tế bào liên quan đến hấp thu và tái chế sắt bị giảm, làm sắt bị giữ lại trong tế bào. Vì vậy, cơ chế điều hòa mới là lời giải thích trung tâm chứ không phải thiếu sắt tuyệt đối.",
+      "answerAlt": "Tăng hepcidin làm giảm ferroportin; Hepcidin tăng làm giảm ferroportin; Increased hepcidin reduces ferroportin; High hepcidin with reduced ferroportin; Tăng hepcidin gây giảm ferroportin",
+      "altAnswers": [
+       "Tăng hepcidin làm giảm ferroportin",
+       "Hepcidin tăng làm giảm ferroportin",
+       "Increased hepcidin reduces ferroportin",
+       "High hepcidin with reduced ferroportin",
+       "Tăng hepcidin gây giảm ferroportin",
+       "tang hepcidin lam giam ferroportin",
+       "hepcidin tang lam giam ferroportin",
+       "tang hepcidin gay giam ferroportin"
+      ],
+      "difficulty": 9.6
+     }
+    ]
+   }
+  },
+  "tangToc": {
+   "questions": [
+    {
+     "answer": "Hepcidin",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_0_0.png",
+       "caption": "Hình 1"
+      }
+     ],
+     "explain": "Sơ đồ cân bằng sắt cho phép truy ngược cơ chế điều hòa toàn thân; hepcidin là tín hiệu từ gan tác động lên ferroportin.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Một sơ đồ tế bào cho thấy sắt được tiếp nhận, sử dụng, dự trữ và xuất ra ngoài qua các protein chuyên biệt. Hãy suy luận mắt xích nào giải thích tốt nhất việc điều hòa sắt toàn thân khi tín hiệu từ gan thay đổi.",
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hepcidin hormone; Hormone hepcidin",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hepcidin hormone",
+      "Hormone hepcidin"
+     ],
+     "difficulty": 9.3
+    },
+    {
+     "answer": "CADB",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_0.png",
+       "caption": "Hình A"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_1.png",
+       "caption": "Hình B"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_2.png",
+       "caption": "Hình C"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_1_3.png",
+       "caption": "Hình D"
+      }
+     ],
+     "explain": "C → vị trí HBB; A → đột biến điểm; D → HbS; B → biểu hiện/hình thái hồng cầu hình liềm. Vì vậy thứ tự đúng là CADB.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "4 hình ảnh A, B, C, D dưới đây đang được sắp xếp SAI so với trình tự từ thông tin giải phẫu và biến đổi phân tử đến sản phẩm hemoglobin rồi biểu hiện/hình thái bệnh lý. Hãy sắp xếp lại 4 hình ảnh theo đúng trình tự và trả lời bằng dãy 4 chữ cái tương ứng.",
+     "answerAlt": "CADB; C-A-D-B; C→A→D→B; C A D B; C, A, D, B",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "CADB",
+      "C-A-D-B",
+      "C→A→D→B",
+      "C A D B",
+      "C, A, D, B",
+      "C,A,D,B",
+      "C → A → D → B",
+      "C - A - D - B"
+     ],
+     "difficulty": 8
+    },
+    {
+     "answer": "Bệnh hồng cầu hình liềm",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_0.jpg",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_1.png",
+       "caption": "Hình 2"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_2.png",
+       "caption": "Hình 3"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_3.jpg",
+       "caption": "Hình 4"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_4.jpg",
+       "caption": "Hình 5"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_5.png",
+       "caption": "Hình 6"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_6.jpg",
+       "caption": "Hình 7"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_7.png",
+       "caption": "Hình 8"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_8.png",
+       "caption": "Hình 9"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_9.png",
+       "caption": "Hình 10"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_10.jpg",
+       "caption": "Hình 11"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_11.jpg",
+       "caption": "Hình 12"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_12.jpg",
+       "caption": "Hình 13"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_13.png",
+       "caption": "Hình 14"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_2_14.jpg",
+       "caption": "Hình 15"
+      }
+     ],
+     "explain": "Chuỗi đi từ di truyền/chọn lọc đến cơ chế, biểu hiện, sàng lọc và cuối cùng là hình ảnh đặc hiệu của bệnh hồng cầu hình liềm.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Chuỗi ảnh dưới đây đi từ một dữ kiện rất gián tiếp đến hình ảnh cơ chế/biểu hiện đặc hiệu. Hãy liên tục cập nhật giả thuyết; khi xuất hiện ảnh cuối cùng, chốt MỘT chẩn đoán/từ khóa duy nhất phù hợp nhất với toàn bộ chuỗi.",
+     "answerAlt": "Bệnh hồng cầu hình liềm; Hồng cầu hình liềm; Bệnh hồng cầu hình liềm (SCD); Sickle cell disease; SCD; Thiếu máu hồng cầu hình liềm",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Bệnh hồng cầu hình liềm",
+      "Hồng cầu hình liềm",
+      "Bệnh hồng cầu hình liềm (SCD)",
+      "Sickle cell disease",
+      "SCD",
+      "Thiếu máu hồng cầu hình liềm",
+      "benh hong cau hinh liem",
+      "hong cau hinh liem",
+      "benh hong cau hinh liem (scd)",
+      "thieu mau hong cau hinh liem"
+     ],
+     "difficulty": 8.5
+    },
+    {
+     "answer": "Chuyển hoá sắt",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_0.png",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_1.png",
+       "caption": "Hình 2"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_2.jpg",
+       "caption": "Hình 3"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_3.png",
+       "caption": "Hình 4"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_4.png",
+       "caption": "Hình 5"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_5.png",
+       "caption": "Hình 6"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_6.png",
+       "caption": "Hình 7"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_7.png",
+       "caption": "Hình 8"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_8.jpg",
+       "caption": "Hình 9"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_9.jpg",
+       "caption": "Hình 10"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_10.jpg",
+       "caption": "Hình 11"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_11.jpg",
+       "caption": "Hình 12"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_12.png",
+       "caption": "Hình 13"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_13.jpg",
+       "caption": "Hình 14"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/tt_3_14.png",
+       "caption": "Hình 15"
+      }
+     ],
+     "explain": "Chuỗi ghép các mắt xích heme, dự trữ, vận chuyển, hấp thu, xuất sắt, điều hòa và chelator để dẫn đến khái niệm chuyển hoá sắt.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Chuỗi ảnh đi từ các mảnh ghép rời rạc của heme, protein vận chuyển, hấp thu và xuất sắt đến sơ đồ tích hợp. Hãy cập nhật giả thuyết sau từng ảnh và đến ảnh cuối cùng chốt MỘT khái niệm duy nhất phù hợp nhất với toàn bộ chuỗi.",
+     "answerAlt": "Chuyển hoá sắt; Chuyển hóa sắt; Iron metabolism; Sự chuyển hoá sắt; Sự chuyển hóa sắt",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Chuyển hoá sắt",
+      "Chuyển hóa sắt",
+      "Iron metabolism",
+      "Sự chuyển hoá sắt",
+      "Sự chuyển hóa sắt",
+      "chuyen hoa sat",
+      "su chuyen hoa sat"
+     ],
+     "difficulty": 8.5
+    }
+   ]
+  },
+  "khoiDong": {
+   "pool": [
+    {
+     "answer": "Tủy xương",
+     "points": 10,
+     "explain": "Tủy xương là cơ quan tạo máu chủ yếu ở người trưởng thành.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Ở người trưởng thành, cơ quan giữ vai trò tạo máu chính là gì?",
+     "answerAlt": "Tủy xương; Tuỷ xương; Bone marrow; tuy xuong",
+     "altAnswers": [
+      "Tủy xương",
+      "Tuỷ xương",
+      "Bone marrow",
+      "tuy xuong"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Túi noãn hoàng",
+     "points": 10,
+     "explain": "Túi noãn hoàng là vị trí tạo máu sớm trong đời sống phôi.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Trong giai đoạn tạo máu phôi sớm, vị trí tạo máu nổi bật trước khi gan chiếm ưu thế là gì?",
+     "answerAlt": "Túi noãn hoàng; Tui noan hoang; Yolk sac",
+     "altAnswers": [
+      "Túi noãn hoàng",
+      "Tui noan hoang",
+      "Yolk sac"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Gan",
+     "points": 10,
+     "explain": "Gan là cơ quan tạo máu quan trọng trong giai đoạn bào thai trước khi tủy xương chiếm ưu thế.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Trong thai kỳ, cơ quan nào trở thành vị trí tạo máu chủ yếu sau giai đoạn túi noãn hoàng và trước khi tủy xương đảm nhiệm vai trò chính?",
+     "answerAlt": "Gan; Gan thai; Liver",
+     "altAnswers": [
+      "Gan",
+      "Gan thai",
+      "Liver"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Tế bào gốc tạo máu",
+     "points": 10,
+     "explain": "HSC là tế bào có khả năng tự tái sinh và đa tiềm năng.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Loại tế bào nào vừa có khả năng tự tái sinh vừa có thể biệt hóa thành các dòng tế bào máu khác nhau?",
+     "answerAlt": "Tế bào gốc tạo máu; Tế bào gốc sinh máu; Hematopoietic stem cell; HSC; Te bao goc tao mau",
+     "altAnswers": [
+      "Tế bào gốc tạo máu",
+      "Tế bào gốc sinh máu",
+      "Hematopoietic stem cell",
+      "HSC",
+      "Te bao goc tao mau",
+      "te bao goc sinh mau"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "Tự tái sinh",
+     "points": 10,
+     "explain": "Tự tái sinh duy trì quần thể HSC qua thời gian.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Đặc tính nào của HSC giúp duy trì kho tế bào gốc tạo máu lâu dài?",
+     "answerAlt": "Tự tái sinh; Tự tái tạo; Self-renewal; Tu tai sinh",
+     "altAnswers": [
+      "Tự tái sinh",
+      "Tự tái tạo",
+      "Self-renewal",
+      "Tu tai sinh",
+      "tu tai tao"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Tủy xương và tuyến ức",
+     "points": 10,
+     "explain": "Tủy xương và tuyến ức là hai cơ quan lympho trung ương.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Hai cơ quan lympho trung ương được nhấn mạnh trong tài liệu là những cơ quan nào?",
+     "answerAlt": "Tủy xương và tuyến ức; Tuỷ xương và tuyến ức; Bone marrow and thymus; Tủy xương + tuyến ức; Tuyến ức và tủy xương",
+     "altAnswers": [
+      "Tủy xương và tuyến ức",
+      "Tuỷ xương và tuyến ức",
+      "Bone marrow and thymus",
+      "Tủy xương + tuyến ức",
+      "Tuyến ức và tủy xương",
+      "tuy xuong va tuyen uc",
+      "tuy xuong + tuyen uc",
+      "tuyen uc va tuy xuong"
+     ],
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Vùng vỏ tuyến ức",
+     "points": 10,
+     "explain": "Vỏ tuyến ức giàu thymocyte hơn vùng tủy.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Trong tuyến ức, vùng nào chứa nhiều thymocyte chưa trưởng thành hơn?",
+     "answerAlt": "Vùng vỏ tuyến ức; Vỏ tuyến ức; Thymic cortex; Vo tuyen uc",
+     "altAnswers": [
+      "Vùng vỏ tuyến ức",
+      "Vỏ tuyến ức",
+      "Thymic cortex",
+      "Vo tuyen uc",
+      "vung vo tuyen uc"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Tế bào biểu mô-lưới",
+     "points": 10,
+     "explain": "Tuyến ức được nâng đỡ bởi các tế bào biểu mô-lưới.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Tế bào nào tạo nên mạng lưới nâng đỡ đặc trưng của nhu mô tuyến ức?",
+     "answerAlt": "Tế bào biểu mô-lưới; Tế bào biểu mô lưới; Epithelial-reticular cell; Epithelial reticular cells; Te bao bieu mo luoi",
+     "altAnswers": [
+      "Tế bào biểu mô-lưới",
+      "Tế bào biểu mô lưới",
+      "Epithelial-reticular cell",
+      "Epithelial reticular cells",
+      "Te bao bieu mo luoi",
+      "te bao bieu mo-luoi"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Vùng cận vỏ",
+     "points": 10,
+     "explain": "Paracortex là vùng giàu tế bào T trong hạch lympho.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Trong hạch lympho, vùng nào nổi bật về đáp ứng giàu tế bào T?",
+     "answerAlt": "Vùng cận vỏ; Cận vỏ hạch lympho; Paracortex; Can vo",
+     "altAnswers": [
+      "Vùng cận vỏ",
+      "Cận vỏ hạch lympho",
+      "Paracortex",
+      "Can vo",
+      "vung can vo",
+      "can vo hach lympho"
+     ],
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Tủy đỏ",
+     "points": 10,
+     "explain": "Tủy đỏ của lách liên quan lọc máu và xử lý hồng cầu già.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Trong lách, vùng nào tham gia mạnh vào lọc và loại bỏ hồng cầu già?",
+     "answerAlt": "Tủy đỏ; Tuỷ đỏ; Red pulp; Tuy do",
+     "altAnswers": [
+      "Tủy đỏ",
+      "Tuỷ đỏ",
+      "Red pulp",
+      "Tuy do"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Đĩa lõm hai mặt",
+     "points": 10,
+     "explain": "Hình đĩa lõm hai mặt làm tăng diện tích bề mặt so với thể tích.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Hình dạng nào của hồng cầu giúp tăng diện tích bề mặt và hỗ trợ trao đổi khí?",
+     "answerAlt": "Đĩa lõm hai mặt; Hình đĩa lõm hai mặt; Biconcave disk; Biconcave disc; Dia lom hai mat",
+     "altAnswers": [
+      "Đĩa lõm hai mặt",
+      "Hình đĩa lõm hai mặt",
+      "Biconcave disk",
+      "Biconcave disc",
+      "Dia lom hai mat",
+      "hinh dia lom hai mat"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Lớp lipid kép",
+     "points": 10,
+     "explain": "Màng tế bào có cấu trúc lipid kép cùng các protein màng.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Kiến trúc cơ bản của màng hồng cầu được mô tả là gì?",
+     "answerAlt": "Lớp lipid kép; Lớp phospholipid kép; Lipid bilayer; Phospholipid bilayer; Lop lipid kep",
+     "altAnswers": [
+      "Lớp lipid kép",
+      "Lớp phospholipid kép",
+      "Lipid bilayer",
+      "Phospholipid bilayer",
+      "Lop lipid kep",
+      "lop phospholipid kep"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Oxyhemoglobin",
+     "points": 10,
+     "explain": "Hb gắn O2 tạo oxyhemoglobin.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Khi hemoglobin gắn oxy ở phổi, phức hợp tạo thành được gọi là gì?",
+     "answerAlt": "Oxyhemoglobin; Oxyhemoglobin (HbO2); HbO2; Oxy-hemoglobin",
+     "altAnswers": [
+      "Oxyhemoglobin",
+      "Oxyhemoglobin (HbO2)",
+      "HbO2",
+      "Oxy-hemoglobin"
+     ],
+     "difficulty": 7.1
+    },
+    {
+     "answer": "Carbaminohemoglobin",
+     "points": 10,
+     "explain": "Một phần CO2 được vận chuyển dưới dạng carbaminohemoglobin.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Khi CO2 gắn vào nhóm globin của hemoglobin, dạng vận chuyển đó gọi là gì?",
+     "answerAlt": "Carbaminohemoglobin; Carbamino-hemoglobin; Carbamino Hb; Carbaminohemoglobin (HbCO2)",
+     "altAnswers": [
+      "Carbaminohemoglobin",
+      "Carbamino-hemoglobin",
+      "Carbamino Hb",
+      "Carbaminohemoglobin (HbCO2)",
+      "HbCO2"
+     ],
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Đệm H+",
+     "points": 10,
+     "explain": "Hemoglobin có vai trò đệm H+ trong hồng cầu.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Trong hồng cầu, hemoglobin còn góp phần vào cân bằng acid-base chủ yếu nhờ khả năng nào?",
+     "answerAlt": "Đệm H+; Đệm ion H+; Buffer H+; Đệm proton; Dem H+",
+     "altAnswers": [
+      "Đệm H+",
+      "Đệm ion H+",
+      "Buffer H+",
+      "Đệm proton",
+      "Dem H+",
+      "dem ion h+",
+      "dem proton"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "120 ngày",
+     "points": 10,
+     "explain": "Hồng cầu tuần hoàn trung bình khoảng 120 ngày.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Tuổi thọ trung bình của hồng cầu trong tuần hoàn xấp xỉ bao nhiêu ngày?",
+     "answerAlt": "120 ngày; 120; Một trăm hai mươi ngày; 120 days",
+     "altAnswers": [
+      "120 ngày",
+      "120",
+      "Một trăm hai mươi ngày",
+      "120 days",
+      "120 ngay",
+      "mot tram hai muoi ngay"
+     ],
+     "difficulty": 7.1
+    },
+    {
+     "answer": "Tăng",
+     "points": 10,
+     "explain": "Thiếu B12 gây thiếu máu hồng cầu to nên MCV tăng.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Trong thiếu vitamin B12, chỉ số MCV của hồng cầu thường thay đổi theo hướng nào?",
+     "answerAlt": "Tăng; Tăng lên; Increased; Increase; MCV tăng",
+     "altAnswers": [
+      "Tăng",
+      "Tăng lên",
+      "Increased",
+      "Increase",
+      "MCV tăng",
+      "tang",
+      "tang len",
+      "mcv tang"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Erythropoietin",
+     "points": 10,
+     "explain": "EPO là yếu tố điều hòa quan trọng của dòng hồng cầu và liên quan đáp ứng với thiếu oxy.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Yếu tố điều hòa nào kích thích sinh hồng cầu, được tạo chủ yếu ở thận khi cơ thể thiếu oxy?",
+     "answerAlt": "Erythropoietin; EPO; Erythropoietin hormone; Hormone erythropoietin",
+     "altAnswers": [
+      "Erythropoietin",
+      "EPO",
+      "Erythropoietin hormone",
+      "Hormone erythropoietin"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "Thrombopoietin",
+     "points": 10,
+     "explain": "TPO là yếu tố điều hòa chủ chốt của quá trình sinh tiểu cầu.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Yếu tố điều hòa nào kích thích dòng mẫu tiểu cầu và tạo tiểu cầu?",
+     "answerAlt": "Thrombopoietin; TPO; Thrombopoietin hormone; Hormone thrombopoietin",
+     "altAnswers": [
+      "Thrombopoietin",
+      "TPO",
+      "Thrombopoietin hormone",
+      "Hormone thrombopoietin"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Giảm tiểu cầu",
+     "points": 10,
+     "explain": "Giảm tiểu cầu là rối loạn về số lượng, khác với rối loạn chức năng tiểu cầu.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Khi số lượng tiểu cầu trong máu ngoại vi giảm dưới mức bình thường, nhóm rối loạn này được gọi là gì?",
+     "answerAlt": "Giảm tiểu cầu; Giảm số lượng tiểu cầu; Thrombocytopenia; Thrombocytopenia count decrease",
+     "altAnswers": [
+      "Giảm tiểu cầu",
+      "Giảm số lượng tiểu cầu",
+      "Thrombocytopenia",
+      "Thrombocytopenia count decrease",
+      "giam tieu cau",
+      "giam so luong tieu cau"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Mất bạch cầu hạt",
+     "points": 10,
+     "explain": "Agranulocytosis là tình trạng giảm nặng bạch cầu hạt.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Giảm bạch cầu hạt nặng kèm nhiễm khuẩn tái diễn được gọi là gì?",
+     "answerAlt": "Mất bạch cầu hạt; Mất bạch cầu hạt (agranulocytosis); Agranulocytosis; Mat bach cau hat",
+     "altAnswers": [
+      "Mất bạch cầu hạt",
+      "Mất bạch cầu hạt (agranulocytosis)",
+      "Agranulocytosis",
+      "Mat bach cau hat",
+      "mat bach cau hat (agranulocytosis)"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "α2β2",
+     "points": 10,
+     "explain": "HbA chủ yếu gồm hai chuỗi alpha và hai chuỗi beta.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Hemoglobin A ở người trưởng thành có cấu trúc chuỗi globin nào?",
+     "answerAlt": "α2β2; a2b2; HbA α2β2; HbA alpha2 beta2; Alpha2 beta2",
+     "altAnswers": [
+      "α2β2",
+      "a2b2",
+      "HbA α2β2",
+      "HbA alpha2 beta2",
+      "Alpha2 beta2",
+      "alpha 2 beta 2",
+      "alpha2beta2",
+      "hba alpha 2 beta 2",
+      "hba a2b2"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "α2γ2",
+     "points": 10,
+     "explain": "HbF gồm hai chuỗi alpha và hai chuỗi gamma.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Hemoglobin F có cấu trúc chuỗi globin nào?",
+     "answerAlt": "α2γ2; a2g2; HbF α2γ2; HbF alpha2 gamma2; Alpha2 gamma2",
+     "altAnswers": [
+      "α2γ2",
+      "a2g2",
+      "HbF α2γ2",
+      "HbF alpha2 gamma2",
+      "Alpha2 gamma2",
+      "alpha 2 gamma 2",
+      "alpha2gamma2",
+      "hbf alpha 2 gamma 2",
+      "hbf a2g2"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Nhiễm sắc thể 16",
+     "points": 10,
+     "explain": "Cụm gen alpha-globin nằm trên nhiễm sắc thể 16.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Gen mã hóa chuỗi α-globin nằm chủ yếu trên nhiễm sắc thể số mấy?",
+     "answerAlt": "Nhiễm sắc thể 16; NST 16; Chromosome 16; 16; Chr 16",
+     "altAnswers": [
+      "Nhiễm sắc thể 16",
+      "NST 16",
+      "Chromosome 16",
+      "16",
+      "Chr 16",
+      "nhiem sac the 16"
+     ],
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Nhiễm sắc thể 11",
+     "points": 10,
+     "explain": "Gen beta-globin nằm trên nhiễm sắc thể 11.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Gen mã hóa chuỗi β-globin nằm trên nhiễm sắc thể số mấy?",
+     "answerAlt": "Nhiễm sắc thể 11; NST 11; Chromosome 11; 11; Chr 11",
+     "altAnswers": [
+      "Nhiễm sắc thể 11",
+      "NST 11",
+      "Chromosome 11",
+      "11",
+      "Chr 11",
+      "nhiem sac the 11"
+     ],
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Glutamic acid",
+     "points": 10,
+     "explain": "HbS do thay thế glutamic acid bằng valine trong chuỗi beta-globin.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Trong HbS, acid amin nào ở chuỗi β bị thay thế bởi valine?",
+     "answerAlt": "Glutamic acid; Acid glutamic; Glutamate; Glutamic acid → Valine; Glutamat",
+     "altAnswers": [
+      "Glutamic acid",
+      "Acid glutamic",
+      "Glutamate",
+      "Glutamic acid → Valine",
+      "Glutamat"
+     ],
+     "difficulty": 8
+    },
+    {
+     "answer": "Hạch phản ứng",
+     "points": 10,
+     "explain": "Hạch phản ứng có thể xuất hiện khi cơ thể đáp ứng với nhiễm trùng hoặc viêm.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Hạch to do nhiễm trùng hoặc viêm, không nhất thiết do u, thuộc kiểu đáp ứng nào?",
+     "answerAlt": "Hạch phản ứng; Lymphadenopathy phản ứng; Reactive lymphadenopathy; Hach phan ung",
+     "altAnswers": [
+      "Hạch phản ứng",
+      "Lymphadenopathy phản ứng",
+      "Reactive lymphadenopathy",
+      "Hach phan ung",
+      "lymphadenopathy phan ung"
+     ],
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Lao hạch",
+     "points": 10,
+     "explain": "Lao có thể gây viêm hạch mạn tính.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Viêm hạch kéo dài trong bối cảnh lao, thường gợi ý bệnh lý nào?",
+     "answerAlt": "Lao hạch; Viêm hạch lao; Tuberculous lymphadenitis; TB lymphadenitis; Lao hach",
+     "altAnswers": [
+      "Lao hạch",
+      "Viêm hạch lao",
+      "Tuberculous lymphadenitis",
+      "TB lymphadenitis",
+      "Lao hach",
+      "viem hach lao"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Tế bào Reed-Sternberg",
+     "points": 10,
+     "explain": "Tế bào Reed-Sternberg là dấu ấn hình thái kinh điển của Hodgkin lymphoma.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Tế bào nào là dấu ấn hình thái kinh điển của lymphoma Hodgkin?",
+     "answerAlt": "Tế bào Reed-Sternberg; Reed-Sternberg; Reed Sternberg cell; RS cell; Te bao Reed-Sternberg",
+     "altAnswers": [
+      "Tế bào Reed-Sternberg",
+      "Reed-Sternberg",
+      "Reed Sternberg cell",
+      "RS cell",
+      "Te bao Reed-Sternberg"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "Lymphoma ngoài hạch",
+     "points": 10,
+     "explain": "Lymphoma có thể biểu hiện tại vị trí ngoài hạch.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Khi lymphoma xuất hiện ngoài mô lympho điển hình, cách gọi theo vị trí là gì?",
+     "answerAlt": "Lymphoma ngoài hạch; U lympho ngoài hạch; Extranodal lymphoma; Ngoai hach lymphoma",
+     "altAnswers": [
+      "Lymphoma ngoài hạch",
+      "U lympho ngoài hạch",
+      "Extranodal lymphoma",
+      "Ngoai hach lymphoma",
+      "lymphoma ngoai hach",
+      "u lympho ngoai hach"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Tủy trắng",
+     "points": 10,
+     "explain": "Tủy trắng của lách là vùng giàu mô lympho liên quan tiểu động mạch trung tâm.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Trong lách, vùng chứa mô lympho bao quanh tiểu động mạch trung tâm được gọi là gì?",
+     "answerAlt": "Tủy trắng; Tuỷ trắng; White pulp; Tuy trang",
+     "altAnswers": [
+      "Tủy trắng",
+      "Tuỷ trắng",
+      "White pulp",
+      "Tuy trang"
+     ],
+     "difficulty": 7.9
+    },
+    {
+     "answer": "Khoảng 65%",
+     "points": 10,
+     "explain": "Khoảng 65% sắt cơ thể nằm trong hemoglobin.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Khoảng bao nhiêu phần trăm sắt toàn cơ thể nằm trong hemoglobin theo tài liệu?",
+     "answerAlt": "Khoảng 65%; 65%; 65 phần trăm; Khoảng 65 phần trăm",
+     "altAnswers": [
+      "Khoảng 65%",
+      "65%",
+      "65 phần trăm",
+      "Khoảng 65 phần trăm",
+      "65",
+      "65 percent",
+      "khoang 65%",
+      "65 phan tram",
+      "khoang 65 phan tram"
+     ],
+     "difficulty": 7.1
+    },
+    {
+     "answer": "Ferritin",
+     "points": 10,
+     "explain": "Ferritin là dạng dự trữ sắt quan trọng và có tính hòa tan tương đối.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Dạng dự trữ sắt hòa tan tương đối, được dùng làm chỉ dấu dự trữ sắt, là gì?",
+     "answerAlt": "Ferritin; Ferritin protein; Protein ferritin",
+     "altAnswers": [
+      "Ferritin",
+      "Ferritin protein",
+      "Protein ferritin"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Hemosiderin",
+     "points": 10,
+     "explain": "Hemosiderin là dạng dự trữ sắt tương đối không hòa tan.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Dạng dự trữ sắt không hòa tan, tạo thành các kho dự trữ lớn hơn trong mô, là gì?",
+     "answerAlt": "Hemosiderin; Hemosiderin iron; Hemosiderin sắt",
+     "altAnswers": [
+      "Hemosiderin",
+      "Hemosiderin iron",
+      "Hemosiderin sắt",
+      "hemosiderin sat"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Transferrin",
+     "points": 10,
+     "explain": "Transferrin vận chuyển sắt trong huyết tương.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Protein huyết tương vận chuyển sắt trong máu là gì?",
+     "answerAlt": "Transferrin; Transferrin protein; Protein transferrin",
+     "altAnswers": [
+      "Transferrin",
+      "Transferrin protein",
+      "Protein transferrin"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Hepcidin",
+     "points": 10,
+     "explain": "Hepcidin điều hòa cân bằng sắt bằng cách tác động lên ferroportin.",
+     "subject": "Chuyển hoá sắt",
+     "question": "Hormone peptid do gan tiết ra điều hòa xuất sắt qua ferroportin là gì?",
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hepcidin hormone; Hormone hepcidin",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hepcidin hormone",
+      "Hormone hepcidin"
+     ],
+     "difficulty": 8.1
+    }
+   ],
+   "groupQuestions": 12,
+   "questionsPerPlayer": 6
+  },
+  "vuotChuongNgaiVat": {
+   "rows": [
+    {
+     "clue": "Peptide do gan tiết ra, điều hòa lượng sắt được phép đi ra khỏi tế bào vào huyết tương.",
+     "answer": "Hepcidin",
+     "points": 10,
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hormone hepcidin; hepcidin",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hormone hepcidin"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "clue": "Khi tín hiệu này tăng, kênh xuất sắt trên enterocyte và đại thực bào bị giảm hoạt tính.",
+     "answer": "Hepcidin",
+     "points": 10,
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hepcidin hormone",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hepcidin hormone"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "clue": "Nó tác động lên một protein vận chuyển sắt xuyên màng, khiến protein này bị thoái hóa.",
+     "answer": "Hepcidin",
+     "points": 10,
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hepcidin hormone",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hepcidin hormone"
+     ],
+     "difficulty": 8
+    },
+    {
+     "clue": "Tăng trong quá tải sắt/viêm; giảm khi thiếu máu, thiếu oxy hoặc tăng tạo hồng cầu.",
+     "answer": "Hepcidin",
+     "points": 10,
+     "answerAlt": "Hepcidin; Hepcidin peptide; Hepcidin hormone",
+     "altAnswers": [
+      "Hepcidin",
+      "Hepcidin peptide",
+      "Hepcidin hormone"
+     ],
+     "difficulty": 8.2
+    }
+   ],
+   "keyword": "HEPCIDIN",
+   "imageUrl": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1791037988875/vcnv_bg.jpg",
+   "centerClue": "",
+   "keywordHint": "Một peptide do gan tiết ra có vai trò trung tâm trong điều hòa lượng sắt được phép đi ra khỏi tế bào vào huyết tương.",
+   "keywordAltAnswers": [
+    "Hepcidin",
+    "hepcidin peptide",
+    "hepcidin hormone",
+    "hormone hepcidin"
+   ]
+  }
+ }
+}
