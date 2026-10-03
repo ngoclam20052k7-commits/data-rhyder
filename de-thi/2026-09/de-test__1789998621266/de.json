@@ -1,0 +1,860 @@
+{
+ "schema": 1,
+ "poolId": "70e630de-2f4a-4fb4-8cba-6a9ca0923422_1789998621266",
+ "title": "Đề Test",
+ "subject": "Huyết học",
+ "adminLabel": null,
+ "addedAt": "2026-09-21T13:50:21.266Z",
+ "contributorName": "Nguyễn Lâm",
+ "contentHash": "b56e80f1c0ebecf9479fc38f8f4bd6adf98d0fca895cf0051cdb93585de2e7c1",
+ "stats": {
+  "kd": 36,
+  "tt": 4,
+  "vcnv": 4,
+  "vd20": 8,
+  "vd30": 8,
+  "images": 42
+ },
+ "ratingAvg": 10,
+ "ratingCount": 2,
+ "excelFile": null,
+ "images": [],
+ "format": "exam4",
+ "examData": {
+  "meta": {
+   "note": "",
+   "title": "Đề thi (nhập từ Excel)"
+  },
+  "veDich": {
+   "packages": {
+    "20": [
+     {
+      "answer": "Thiếu máu bình sắc, hồng cầu bình thường",
+      "points": 20,
+      "explain": "MCV 89,2 fL và MCHC 321 g/l đều trong giới hạn bình thường, phù hợp thiếu máu bình sắc, thể tích hồng cầu bình thường.",
+      "subject": "Phân tích huyết đồ",
+      "question": "Một huyết đồ ở bệnh nhân nữ 45 tuổi, chẩn đoán lâm sàng bằng gãy chân, ghi nhận RBC 3,05 T/l, HGB 90 g/l, MCV 89,2 fL, MCHC 321 g/l, hồng cầu lưới 1,0%, WBC 6,43 G/l với công thức bạch cầu trong giới hạn bình thường, PLT bình thường. Type thiếu máu phù hợp nhất với các chỉ số trên là gì?",
+      "answerAlt": "Thiếu máu bình sắc bình bào",
+      "altAnswers": [
+       "Thiếu máu bình sắc bình bào"
+      ],
+      "difficulty": 8
+     },
+     {
+      "answer": "Tăng huy động bạch cầu trung tính do nhiễm trùng cấp",
+      "points": 20,
+      "explain": "Tăng WBC ưu thế bạch cầu đoạn trung tính là đáp ứng điển hình của nhiễm khuẩn cấp tính.",
+      "subject": "Phân tích huyết đồ",
+      "question": "Huyết đồ số 3 ở bệnh nhân nam 28 tuổi, chẩn đoán viêm amydan mủ, cho thấy WBC 17,2 G/l, NEU 93,6%, RBC/HGB/PLT bình thường. Cơ chế nào giải thích phù hợp nhất tình trạng tăng bạch cầu này?",
+      "answerAlt": "Phản ứng viêm cấp do nhiễm khuẩn",
+      "altAnswers": [
+       "Phản ứng viêm cấp do nhiễm khuẩn"
+      ],
+      "difficulty": 8.1
+     },
+     {
+      "answer": "Tủy tăng sinh lành tính dòng hồng cầu",
+      "points": 20,
+      "explain": "Blast bình thường, dòng hồng cầu tăng sinh nhưng biệt hóa/trưởng thành tốt, không có dấu hiệu ác tính.",
+      "subject": "Phân tích tủy đồ",
+      "question": "Kết quả tủy đồ số 3 ở một bệnh nhân theo dõi thiếu máu chưa rõ nguyên nhân cho thấy: số lượng tế bào tủy tăng nhẹ, blast 1%, dòng hồng cầu tỷ lệ cao hơn bình thường, biệt hóa và trưởng thành tốt. Kết luận phù hợp là gì?",
+      "answerAlt": "Tăng sinh hồng cầu lành tính",
+      "altAnswers": [
+       "Tăng sinh hồng cầu lành tính"
+      ],
+      "difficulty": 8.2
+     },
+     {
+      "answer": "Lơ-xê-mi cấp",
+      "points": 20,
+      "explain": "Tỷ lệ blast rất cao (78%) trong máu ngoại vi là dấu hiệu điển hình của lơ-xê-mi cấp.",
+      "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+      "question": "Một mẫu tổng phân tích tế bào máu ngoại vi ghi nhận: RBC 2,57 T/l, HGB 89 g/l, WBC 33,66 G/l, PLT 91 G/l, quan sát của bác sĩ huyết học ghi nhận blast 78%. Chẩn đoán phù hợp nhất là gì?",
+      "answerAlt": "Bạch cầu cấp",
+      "altAnswers": [
+       "Bạch cầu cấp"
+      ],
+      "difficulty": 8.3
+     },
+     {
+      "answer": "Thiếu máu nhược sắc hồng cầu nhỏ",
+      "points": 20,
+      "explain": "MCV giảm (65,4 fL <80) và MCHC giảm (270 g/l <320) tương ứng thiếu máu nhược sắc hồng cầu nhỏ, phù hợp bệnh cảnh mất máu mạn đường tiêu hoá.",
+      "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+      "question": "Một mẫu tổng phân tích tế bào máu ngoại vi ở bệnh nhân nam điều trị nội khoa cho thấy RBC 4,25 T/l, HGB 75 g/l, MCV 65,4 fL, MCHC 270 g/l, chẩn đoán lâm sàng hội chứng dạ dày tá tràng. Type thiếu máu phù hợp nhất là gì?",
+      "answerAlt": "Thiếu máu nhược sắc, hồng cầu nhỏ",
+      "altAnswers": [
+       "Thiếu máu nhược sắc",
+       "hồng cầu nhỏ"
+      ],
+      "difficulty": 8
+     },
+     {
+      "answer": "Lơ-xê-mi cấp",
+      "points": 20,
+      "explain": "Tỷ lệ blast rất cao (82%) kèm giảm tiểu cầu gây xuất huyết là biểu hiện điển hình của lơ-xê-mi cấp.",
+      "subject": "Phân tích huyết đồ",
+      "question": "Huyết đồ số 6 ở bệnh nhân nữ 30 tuổi có xuất huyết dưới da, chảy máu chân răng cho thấy RBC 4,5 T/l, HGB 128 g/l bình thường, nhưng quan sát bác sĩ huyết học ghi nhận blast 82% và PLT giảm còn 58 G/l. Chẩn đoán phù hợp nhất là gì?",
+      "answerAlt": "Bạch cầu cấp",
+      "altAnswers": [
+       "Bạch cầu cấp"
+      ],
+      "difficulty": 8.4
+     },
+     {
+      "answer": "Theo dõi đa u tủy xương",
+      "points": 20,
+      "explain": "Tăng tỷ lệ tương bào trong tủy kèm giảm sinh dòng bạch cầu hạt gợi ý bệnh lý tăng sinh dòng plasmo (đa u tủy xương).",
+      "subject": "Phân tích tủy đồ",
+      "question": "Kết quả tủy đồ số 8 ở bệnh nhân nam 65 tuổi theo dõi bệnh máu, ghi nhận mật độ tế bào tủy tăng, dòng bạch cầu hạt giảm sinh nhưng biệt hóa được, gặp nhiều tương bào (plasmocyte tăng tỷ lệ), mẫu tiểu cầu mật độ giảm. Kết luận phù hợp nhất là gì?",
+      "answerAlt": "Bệnh đa u tủy xương (Multiple myeloma)",
+      "altAnswers": [
+       "Bệnh đa u tủy xương (Multiple myeloma)"
+      ],
+      "difficulty": 8.5
+     },
+     {
+      "answer": "Lơ-xê-mi kinh dòng hạt",
+      "points": 20,
+      "explain": "Tăng bạch cầu cao với đủ các lứa tuổi dòng hạt (kể cả tủy bào, hậu tủy bào) ra máu ngoại vi, kèm lách to và tăng tiểu cầu là đặc điểm điển hình của CML.",
+      "subject": "Phân tích huyết đồ",
+      "question": "Huyết đồ số 4 ở bệnh nhân nữ 62 tuổi chẩn đoán lâm sàng lách to, ghi nhận WBC 32,68 G/l tăng cao, PLT 587 G/l tăng, quan sát bác sĩ huyết học cho thấy đủ các lứa tuổi dòng bạch cầu hạt (tủy bào 9%, hậu tủy bào 7%, bạch cầu đũa 6%) ra máu ngoại vi. Chẩn đoán phù hợp nhất là gì?",
+      "answerAlt": "CML; Bạch cầu kinh dòng hạt",
+      "altAnswers": [
+       "CML",
+       "Bạch cầu kinh dòng hạt"
+      ],
+      "difficulty": 8.4
+     }
+    ],
+    "30": [
+     {
+      "answer": "Lơ-xê-mi cấp",
+      "points": 30,
+      "explain": "Blast tủy 63% (≥20%) cùng giảm sinh các dòng tế bào bình thường khác là tiêu chuẩn xác định lơ-xê-mi cấp theo tài liệu.",
+      "subject": "Phân tích tủy đồ",
+      "question": "Một bệnh nhân nam theo dõi bệnh máu và cơ quan tạo máu được làm tủy đồ, kết quả cho thấy số lượng tế bào tủy tăng cao (210 G/l), quan sát của bác sĩ huyết học ghi nhận blast 63% với mật độ tế bào tủy dày đặc; dòng hồng cầu và bạch cầu hạt giảm sinh rõ; gặp tỷ lệ lớn tế bào non ác tính (kích thước tế bào to, nhân lớn, thoát một số ổ hoạt hóa, nguyên sinh chất basơ đậm). Mật độ mẫu tiểu cầu giảm. Dựa trên tiêu chuẩn tỷ lệ blast trong tủy đồ đã học, kết luận phù hợp nhất là gì?",
+      "answerAlt": "Bạch cầu cấp",
+      "altAnswers": [
+       "Bạch cầu cấp"
+      ],
+      "difficulty": 9
+     },
+     {
+      "answer": "Lơ-xê-mi kinh dòng hạt",
+      "points": 30,
+      "explain": "Tủy giàu tế bào, tăng sinh dòng hạt mọi lứa tuổi, tỷ lệ hạt/hồng cầu tăng cao trên 10/1, tỷ lệ blast bình thường (giai đoạn mạn) tương ứng tiêu chuẩn CML giai đoạn mạn tính.",
+      "subject": "Phân tích tủy đồ",
+      "question": "Một bệnh nhân nam 59 tuổi theo dõi bệnh máu và cơ quan tạo máu, tủy đồ ghi nhận mật độ tế bào tủy dày đặc (315 G/l), dòng hồng cầu và bạch cầu hạt tăng sinh mạnh gặp đủ các lứa tuổi, tỷ lệ bạch cầu hạt/hồng cầu trên 10/1 (bình thường 3-4/1), mật độ mẫu tiểu cầu bình thường. Quan sát bác sĩ huyết học không ghi nhận tăng blast rõ. Dựa vào các tiêu chuẩn tủy đồ đã học, kết luận phù hợp nhất với tình trạng này là gì?",
+      "answerAlt": "CML; Bạch cầu kinh dòng bạch cầu hạt",
+      "altAnswers": [
+       "CML",
+       "Bạch cầu kinh dòng bạch cầu hạt"
+      ],
+      "difficulty": 9.3
+     },
+     {
+      "answer": "Tủy giảm sinh 3 dòng tế bào (suy tủy)",
+      "points": 30,
+      "explain": "Giảm sinh đồng thời cả 3 dòng tế bào máu tại tủy, không tăng blast, không xơ hóa, phù hợp nhóm bệnh suy tủy xương do giảm sản xuất tại tủy.",
+      "subject": "Phân tích tủy đồ",
+      "question": "Một bệnh nhân nam 70 tuổi được làm tủy đồ theo dõi bệnh máu, ghi nhận số lượng tế bào tủy giảm (10,5 G/l, dưới ngưỡng bình thường 30-100 G/l), hồng cầu lưới tủy giảm (0,1%), cả ba dòng tế bào (hồng cầu, bạch cầu hạt, mẫu tiểu cầu) đều giảm sinh, không tăng tế bào blast, không có dấu hiệu xơ hóa hay tế bào lạ xâm nhập. Dựa trên các tiêu chuẩn về giảm sinh tủy đã học, kết luận phù hợp nhất là gì?",
+      "answerAlt": "Suy tủy xương",
+      "altAnswers": [
+       "Suy tủy xương"
+      ],
+      "difficulty": 9.1
+     },
+     {
+      "answer": "Thừa sắt thực sự do truyền máu nhiều lần",
+      "points": 30,
+      "explain": "Truyền máu lặp lại nhiều lần là 1 trong 3 nhóm nguyên nhân chính gây thừa sắt thực sự; đặc điểm là ferritin tăng kèm tăng độ bão hòa transferrin, khác với rối loạn phân bố sắt (độ bão hòa transferrin không tăng hoặc giảm).",
+      "subject": "Chuyển hóa sắt",
+      "question": "Một phụ nữ 48 tuổi mắc β-thalassemia thể nặng, đã truyền máu định kỳ nhiều năm. Gần đây bệnh nhân xuất hiện da sạm, mệt mỏi tăng. Xét nghiệm ferritin huyết thanh tăng cao trên 400µg/L kèm độ bão hòa transferrin tăng, trong khi TIBC giảm. Dựa trên cơ chế chuyển hóa sắt đã học, cơ chế nào giải thích phù hợp nhất tình trạng thừa sắt ở bệnh nhân này?",
+      "answerAlt": "Quá tải sắt do truyền máu",
+      "altAnswers": [
+       "Quá tải sắt do truyền máu"
+      ],
+      "difficulty": 9.4
+     },
+     {
+      "answer": "Protein P210 có hoạt tính tyrosine kinase cao",
+      "points": 30,
+      "explain": "Tài liệu nêu tổ hợp gen bcr-abl mã hóa protein bất thường P210 có hoạt tính tyrosine kinase cao, thúc đẩy tăng sinh bạch cầu hạt qua phosphoryl hóa tyrosine.",
+      "subject": "Rối loạn tạo máu",
+      "question": "Một bệnh nhân nam 60 tuổi có lách to, mệt mỏi kéo dài nhiều tháng, xét nghiệm công thức máu cho thấy tăng bạch cầu cao kéo dài với đủ các lứa tuổi dòng hạt ra máu ngoại vi. Xét nghiệm di truyền phát hiện nhiễm sắc thể Philadelphia dương tính do chuyển đoạn giữa nhánh dài NST số 9 và NST số 22, tạo tổ hợp gen bcr-abl. Dựa trên cơ chế bệnh sinh đã học, protein bất thường nào được tạo ra từ tổ hợp gen này và có hoạt tính enzym gì?",
+      "answerAlt": "P210 tyrosine kinase",
+      "altAnswers": [
+       "P210 tyrosine kinase"
+      ],
+      "difficulty": 9.5
+     },
+     {
+      "answer": "Thiếu B12 ức chế tổng hợp DNA và methionin, gây tổn thương myelin dây thần kinh đồng thời làm chậm trưởng thành nhân tế bào tạo máu",
+      "points": 30,
+      "explain": "Tài liệu nêu thiếu vitamin B12 ức chế tổng hợp DNA/methionin làm chậm trưởng thành nhân tế bào (gây thiếu máu nguyên hồng cầu to) và có thể gây tổn thương dây thần kinh cảm giác ngoại biên, sừng bên và sừng sau tủy sống.",
+      "subject": "Rối loạn tạo máu",
+      "question": "Một phụ nữ 52 tuổi ăn chay nghiêm ngặt nhiều năm, đến khám vì tê bì đầu chi, đi lại khó khăn kèm mệt mỏi. Công thức máu cho thấy thiếu máu hồng cầu to (MCV 112 fL), hồng cầu lưới giảm, LDH tăng; định lượng vitamin B12 giảm rõ. Bác sĩ nghi ngờ tổn thương thần kinh liên quan đến thiếu vitamin B12. Dựa trên cơ chế bệnh sinh đã học, vì sao thiếu vitamin B12 có thể gây tổn thương thần kinh phối hợp với biểu hiện huyết học?",
+      "answerAlt": "Thiếu B12 gây rối loạn tổng hợp DNA và tổn thương thần kinh ngoại biên",
+      "altAnswers": [
+       "Thiếu B12 gây rối loạn tổng hợp DNA và tổn thương thần kinh ngoại biên"
+      ],
+      "difficulty": 9.3
+     },
+     {
+      "answer": "Tế bào Reed-Sternberg; u lympho Hodgkin",
+      "points": 30,
+      "explain": "Tài liệu mô tả tế bào Reed-Sternberg có nhân chia nhiều thùy tạo hình ảnh 'rổ trứng', 'soi gương'/'mắt cú', là tế bào đặc trưng cho chẩn đoán bệnh Hodgkin.",
+      "subject": "Rối loạn tại cơ quan lympho",
+      "question": "Một lát cắt hạch bạch huyết vùng cổ ở bệnh nhân nam trẻ tuổi cho thấy cấu trúc hạch bị phá hủy, mô u chứa một số lượng nhỏ tế bào kích thước lớn có nhân chia nhiều múi tạo hình ảnh 'mắt cú' hoặc 'soi gương', hạt nhân to ưa toan, xen giữa nền hỗn hợp nhiều loại tế bào viêm không phải u. Các tế bào u được bao quanh bởi lympho bào T tạo hình ảnh hoa hồng. Dựa trên đặc điểm mô bệnh học đã học, tên loại tế bào đặc trưng này là gì và bệnh lý tương ứng?",
+      "answerAlt": "Reed-Sternberg; bệnh Hodgkin",
+      "altAnswers": [
+       "Reed-Sternberg",
+       "bệnh Hodgkin"
+      ],
+      "difficulty": 9.2
+     },
+     {
+      "answer": "Tế bào gốc tạo máu vạn năng (HSC), giai đoạn tế bào gốc",
+      "points": 30,
+      "explain": "Tài liệu nêu giai đoạn tế bào gốc gồm SC và HSC, có CD34, hình thái giống lympho bào nhưng không đáp ứng miễn dịch; từ đây sinh ra tế bào gốc đa năng cho 2 nhánh định hướng chính.",
+      "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+      "question": "Một nghiên cứu mô tủy xương ở người trưởng thành cần xác định quần thể tế bào có khả năng tự tái sinh lâu dài, đồng thời sinh ra tế bào định hướng cho cả nhóm dòng tủy-lympho và nhóm dòng hồng cầu-tiểu cầu, trước khi các tế bào này biệt hóa tiếp thành các đầu dòng chuyên biệt. Quần thể tế bào này mang dấu ấn kháng nguyên CD34 và có hình thái giống lympho bào nhưng không đáp ứng miễn dịch khi bị kích thích kháng nguyên. Hãy xác định đúng tên quần thể tế bào và giai đoạn biệt hóa tương ứng.",
+      "answerAlt": "HSC; giai đoạn tế bào gốc",
+      "altAnswers": [
+       "HSC",
+       "giai đoạn tế bào gốc"
+      ],
+      "difficulty": 9.1
+     }
+    ]
+   }
+  },
+  "tangToc": {
+   "questions": [
+    {
+     "answer": "CO gắn cạnh tranh với O2 vào cùng vị trí Fe2+ của hem, tạo carboxyhemoglobin bền hơn HbO2, chiếm chỗ và ngăn oxy gắn vào",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_0_0.png",
+       "caption": "Hình 1"
+      }
+     ],
+     "explain": "Tài liệu nêu phản ứng gắn Hb với O2 xảy ra ở Fe2+ theo cả 2 chiều; khi hít CO, Hb kết hợp với CO tạo carboxyhemoglobin và mất khả năng vận chuyển oxy dù hóa trị Fe không đổi.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Quan sát mô hình cấu trúc phân tử vận chuyển oxy của hồng cầu. Một bệnh nhân hít phải khí CO nồng độ cao. Dựa trên cơ chế gắn khí của phân tử này (Hb+O2 ⇌ HbO2 là phản ứng thuận nghịch gắn lỏng lẻo với Fe2+), hãy suy luận: vì sao CO làm mất khả năng vận chuyển oxy của hồng cầu dù không làm thay đổi hóa trị của sắt trong nhân hem?",
+     "answerAlt": "Carboxyhemoglobin; CO cạnh tranh vị trí gắn oxy trên Fe2+",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Carboxyhemoglobin",
+      "CO cạnh tranh vị trí gắn oxy trên Fe2+"
+     ],
+     "difficulty": 9.2
+    },
+    {
+     "answer": "Nguyên tủy bào (myeloblast) → Tiền tủy bào (promyelocyte) → Bạch cầu đũa (band) → Bạch cầu đoạn (segmented)",
+     "images": [
+      {
+       "url": "https://commons.wikimedia.org/wiki/File:Cropped_Promyelocyte.jpg",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_1_1.png",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_1_2.jpg",
+       "caption": "Hình 2"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_1_3.jpg",
+       "caption": "Hình 3"
+      }
+     ],
+     "explain": "Tài liệu (Hình 1.3) mô tả trình tự: nguyên tủy bào → tiền tủy bào → tủy bào → hậu tủy bào → bạch cầu đũa → bạch cầu đoạn.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Bốn hình ảnh dưới đây thể hiện các giai đoạn biệt hóa của dòng bạch cầu hạt trong tủy xương, được hiển thị đồng thời và không theo thứ tự. Hãy sắp xếp đúng trình tự biệt hóa từ tế bào non nhất đến tế bào trưởng thành nhất.",
+     "answerAlt": "Myeloblast → Promyelocyte → Band neutrophil → Segmented neutrophil",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Myeloblast → Promyelocyte → Band neutrophil → Segmented neutrophil"
+     ],
+     "difficulty": 8.3
+    },
+    {
+     "answer": "Bệnh hồng cầu hình liềm (Sickle-cell disease / HbS)",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_0.jpg",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_1.jpg",
+       "caption": "Hình 2"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_2.jpg",
+       "caption": "Hình 3"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_3.jpg",
+       "caption": "Hình 4"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_4.jpg",
+       "caption": "Hình 5"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_5.jpg",
+       "caption": "Hình 6"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_6.jpg",
+       "caption": "Hình 7"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_7.jpg",
+       "caption": "Hình 8"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_8.jpg",
+       "caption": "Hình 9"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_9.jpg",
+       "caption": "Hình 10"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_10.jpg",
+       "caption": "Hình 11"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_11.jpg",
+       "caption": "Hình 12"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_2_12.jpg",
+       "caption": "Hình 13"
+      }
+     ],
+     "explain": "Tài liệu mô tả HbS do glutamic acid ở vị trí 6 chuỗi β bị thay bằng valin, làm hồng cầu biến dạng hình liềm, dễ gây tắc vi mạch; các ảnh trong chuỗi đều thuộc phổ hình thái và biến chứng của bệnh này.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Chuỗi ảnh lần lượt gợi ý về hình dạng bất thường của hồng cầu, hình ảnh phết máu ngoại vi đặc trưng và các biến chứng vi mạch liên quan đến một bệnh huyết sắc tố di truyền. Ở thời điểm cuối chuỗi, hãy chốt một từ khóa duy nhất mô tả bệnh lý này.",
+     "answerAlt": "Sickle cell disease; bệnh hồng cầu hình liềm",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "Sickle cell disease",
+      "bệnh hồng cầu hình liềm"
+     ],
+     "difficulty": 9
+    },
+    {
+     "answer": "Lơ-xê-mi cấp dòng tủy (Acute Myeloid Leukemia - AML)",
+     "images": [
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_0.jpg",
+       "caption": "Hình 1"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_1.jpg",
+       "caption": "Hình 2"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_2.jpg",
+       "caption": "Hình 3"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_3.jpg",
+       "caption": "Hình 4"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_4.png",
+       "caption": "Hình 5"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_5.png",
+       "caption": "Hình 6"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_6.jpg",
+       "caption": "Hình 7"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_7.jpg",
+       "caption": "Hình 8"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_8.jpg",
+       "caption": "Hình 9"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_9.jpg",
+       "caption": "Hình 10"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_10.jpg",
+       "caption": "Hình 11"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_11.jpg",
+       "caption": "Hình 12"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_12.jpg",
+       "caption": "Hình 13"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_13.jpg",
+       "caption": "Hình 14"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_14.jpg",
+       "caption": "Hình 15"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_15.jpg",
+       "caption": "Hình 16"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_16.png",
+       "caption": "Hình 17"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_17.jpg",
+       "caption": "Hình 18"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_18.jpg",
+       "caption": "Hình 19"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_19.jpg",
+       "caption": "Hình 20"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_20.jpg",
+       "caption": "Hình 21"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_21.jpg",
+       "caption": "Hình 22"
+      },
+      {
+       "url": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/tt_3_22.png",
+       "caption": "Hình 23"
+      }
+     ],
+     "explain": "Tài liệu nêu lơ-xê-mi cấp là tăng sinh tế bào non (blast) chưa biệt hóa hoặc biệt hóa rất ít; hạt Auer trong nguyên tủy bào là dấu hiệu gợi ý dòng tủy; các thể M2-M7 tương ứng các hình ảnh trong chuỗi.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Chuỗi ảnh lần lượt gợi ý về hình thái tế bào non trong tủy xương (nguyên tủy bào có hạt Auer), các thể bệnh khác nhau theo phân loại FAB và tổn thương tủy xương liên quan. Hãy chốt chẩn đoán/từ khóa cuối cùng phù hợp nhất.",
+     "answerAlt": "AML; bạch cầu cấp dòng tủy; lơ-xê-mi cấp dòng tủy",
+     "speedRule": "40/30/20/10",
+     "altAnswers": [
+      "AML",
+      "bạch cầu cấp dòng tủy",
+      "lơ-xê-mi cấp dòng tủy"
+     ],
+     "difficulty": 9.1
+    }
+   ]
+  },
+  "khoiDong": {
+   "pool": [
+    {
+     "answer": "Định hướng dòng tủy-lympho và định hướng dòng hồng cầu-tiểu cầu",
+     "points": 10,
+     "explain": "Sơ đồ 1.2 của tài liệu mô tả tế bào gốc đa năng cho hai nhánh định hướng này.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Tế bào gốc tạo máu vạn năng biệt hóa trực tiếp thành hai nhóm tế bào gốc định hướng nào?",
+     "answerAlt": "Dòng tủy-lympho và dòng hồng cầu-tiểu cầu",
+     "altAnswers": [
+      "Dòng tủy-lympho và dòng hồng cầu-tiểu cầu"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Erythropoietin",
+     "points": 10,
+     "explain": "Tài liệu nêu erythropoietin kích thích tăng sinh dòng hồng cầu qua thúc đẩy tế bào đầu dòng hồng cầu.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Hormon nào giữ vai trò chính trong điều hòa sinh hồng cầu?",
+     "answerAlt": "EPO",
+     "altAnswers": [
+      "EPO"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "10 ngày",
+     "points": 10,
+     "explain": "Tài liệu ghi thời gian biệt hoá từ tế bào gốc thành tiểu cầu là 10 ngày.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Thời gian biệt hóa từ tế bào gốc đến khi tạo ra tiểu cầu trưởng thành là khoảng bao lâu?",
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Tế bào gốc tạo máu",
+     "points": 10,
+     "explain": "Tài liệu nêu tế bào gốc có nhóm quyết định kháng nguyên CD34.",
+     "subject": "Quá trình sinh sản và biệt hoá tế bào máu",
+     "question": "Dấu ấn kháng nguyên CD34 đặc trưng cho loại tế bào nào trong tủy xương?",
+     "answerAlt": "HSC; Hematopoietic Stem Cell",
+     "altAnswers": [
+      "HSC",
+      "Hematopoietic Stem Cell"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "2600g",
+     "points": 10,
+     "explain": "Tài liệu nêu tổng trọng lượng tủy xương người trưởng thành trung bình khoảng 2600g.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Tổng trọng lượng tủy xương ở người trưởng thành trung bình khoảng bao nhiêu?",
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Tiểu thể Hassall",
+     "points": 10,
+     "explain": "Tài liệu mô tả tiểu thể Hassall là cấu trúc đặc biệt ở vùng tủy tuyến ức.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Cấu trúc gồm các tế bào võng-biểu mô dẹt xếp đồng tâm ở vùng tủy tuyến ức được gọi là gì?",
+     "difficulty": 7.6
+    },
+    {
+     "answer": "150g",
+     "points": 10,
+     "explain": "Tài liệu ghi trọng lượng lách khoảng 150g.",
+     "subject": "Cơ quan tạo máu",
+     "question": "Lách trưởng thành có trọng lượng trung bình khoảng bao nhiêu?",
+     "difficulty": 7.2
+    },
+    {
+     "answer": "120 ngày",
+     "points": 10,
+     "explain": "Tài liệu nêu đời sống hồng cầu từ 100-130 ngày, trung bình 120 ngày.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Đời sống trung bình của hồng cầu trong máu ngoại vi là bao nhiêu ngày?",
+     "answerAlt": "100-130 ngày",
+     "altAnswers": [
+      "100-130 ngày"
+     ],
+     "difficulty": 7.2
+    },
+    {
+     "answer": "GPIb",
+     "points": 10,
+     "explain": "Tài liệu nêu GPIb là protein xuyên màng liên kết với vWF, bước đầu tiên của đông cầm máu tiểu cầu.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Glycoprotein nào trên màng tiểu cầu có nhiệm vụ liên kết với yếu tố von Willebrand?",
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Cyclooxygenase",
+     "points": 10,
+     "explain": "Tài liệu nêu arachidonic hoạt hóa cyclooxygenase, tạo prostaglandin và thromboxan A2.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Men nào được hoạt hóa bởi acid arachidonic để tạo thromboxan A2 trong tiểu cầu?",
+     "difficulty": 7.9
+    },
+    {
+     "answer": "57,4%",
+     "points": 10,
+     "explain": "Tài liệu nêu bạch cầu hạt trung tính chiếm 57,4 ± 8,4% công thức bạch cầu.",
+     "subject": "Sinh lý tế bào máu",
+     "question": "Ở người trưởng thành bình thường, nhóm bạch cầu hạt trung tính chiếm tỷ lệ trung bình khoảng bao nhiêu %?",
+     "answerAlt": "55-70%",
+     "altAnswers": [
+      "55-70%"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "JAK2",
+     "points": 10,
+     "explain": "Tài liệu nêu đột biến gen JAK2 gặp trên 90% bệnh nhân đa hồng cầu nguyên phát.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Đột biến gen nào gây bệnh đa hồng cầu nguyên phát (bệnh Vaquez)?",
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Hồng cầu nhỏ, nhược sắc",
+     "points": 10,
+     "explain": "Tài liệu mô tả thiếu máu thiếu sắt với hồng cầu nhỏ, nhược sắc do giảm tổng hợp hemoglobin.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Thiếu máu do thiếu sắt có đặc điểm hình thái hồng cầu điển hình nào trên máu ngoại vi?",
+     "answerAlt": "Nhỏ nhược sắc",
+     "altAnswers": [
+      "Nhỏ nhược sắc"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Spectrin",
+     "points": 10,
+     "explain": "Tài liệu nêu nguyên nhân do thiếu chất spectrin ở màng hồng cầu, làm màng mất tính mềm dẻo.",
+     "subject": "Rối loạn tạo máu",
+     "question": "Bệnh hồng cầu hình cầu di truyền (Minkowski-Chauffard) do thiếu hụt thành phần nào của màng hồng cầu?",
+     "difficulty": 7.8
+    },
+    {
+     "answer": "16",
+     "points": 10,
+     "explain": "Tài liệu nêu họ gen α gồm gen α và gen ξ nằm trên cánh ngắn NST 16.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Gen globin dòng α nằm trên nhiễm sắc thể số mấy?",
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Cả 4 gen α",
+     "points": 10,
+     "explain": "Tài liệu nêu khi mất cả 4 gen α, chuỗi γ trùng hợp tạo Hb Bart's, gây tử vong trước hoặc ngay sau sinh.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Bệnh Hemoglobin Bart's xảy ra khi cơ thể mất khả năng tổng hợp chuỗi α do mất bao nhiêu gen α?",
+     "answerAlt": "Mất 4 gen alpha",
+     "altAnswers": [
+      "Mất 4 gen alpha"
+     ],
+     "difficulty": 8.1
+    },
+    {
+     "answer": "Glutamic acid (acid glutamic)",
+     "points": 10,
+     "explain": "Tài liệu nêu đột biến gen β làm glutamic acid ở vị trí 6 bị thay bằng valin, tạo HbS.",
+     "subject": "Rối loạn hình thành và tổng hợp huyết sắc tố",
+     "question": "Trong bệnh hemoglobin S, acid amin nào ở vị trí thứ 6 chuỗi β bị thay thế bởi valin?",
+     "answerAlt": "Glutamin",
+     "altAnswers": [
+      "Glutamin"
+     ],
+     "difficulty": 7.9
+    },
+    {
+     "answer": "Tế bào Reed-Sternberg",
+     "points": 10,
+     "explain": "Tài liệu nêu tế bào Reed-Sternberg là tế bào đặc trưng cho bệnh Hodgkin.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Tế bào nào được xem là đặc trưng cho chẩn đoán u lympho Hodgkin?",
+     "difficulty": 7.7
+    },
+    {
+     "answer": "4 type",
+     "points": 10,
+     "explain": "Tài liệu nêu 4 type: nhiều lympho bào, xơ nốt, hỗn hợp tế bào, ít lympho bào.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Theo phân loại Rye, u lympho Hodgkin được chia thành mấy type mô bệnh học?",
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Hoại tử bã đậu",
+     "points": 10,
+     "explain": "Tài liệu mô tả trung tâm nang lao là vùng hoại tử đông bắt màu hồng thuần nhất, dạng bã đậu.",
+     "subject": "Rối loạn tại cơ quan lympho",
+     "question": "Ở hạch viêm do lao, vùng trung tâm của nang lao điển hình có hình ảnh vi thể gì?",
+     "answerAlt": "Hoại tử đông dạng bã đậu",
+     "altAnswers": [
+      "Hoại tử đông dạng bã đậu"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "Transferrin",
+     "points": 10,
+     "explain": "Tài liệu nêu transferrin là protein vận chuyển sắt trong huyết thanh, tổng hợp ở gan.",
+     "subject": "Chuyển hóa sắt",
+     "question": "Protein nào có vai trò chính vận chuyển sắt trong huyết thanh?",
+     "difficulty": 7.2
+    },
+    {
+     "answer": "Hepcidin",
+     "points": 10,
+     "explain": "Tài liệu nêu hepcidin tăng sẽ làm đóng cửa ferroportin, giữ sắt lại ở nội bào.",
+     "subject": "Chuyển hóa sắt",
+     "question": "Hormon nào do gan tổng hợp, có vai trò đóng cửa kênh ferroportin để điều hòa chuyển hóa sắt?",
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Ferritin huyết thanh",
+     "points": 10,
+     "explain": "Tài liệu nêu ferritin là chỉ số tin cậy để đánh giá dự trữ sắt toàn cơ thể trong hầu hết trường hợp.",
+     "subject": "Chuyển hóa sắt",
+     "question": "Chỉ số nào được xem là đáng tin cậy nhất để đánh giá tổng lượng sắt dự trữ toàn cơ thể?",
+     "answerAlt": "Ferritin",
+     "altAnswers": [
+      "Ferritin"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "Hemosiderin",
+     "points": 10,
+     "explain": "Tài liệu nêu hemosiderin không hòa tan, hầu như cố định, khó giải phóng sắt hơn ferritin.",
+     "subject": "Chuyển hóa sắt",
+     "question": "Dạng sắt dự trữ không hòa tan trong nước và khó huy động khi cơ thể có nhu cầu là gì?",
+     "difficulty": 7.5
+    },
+    {
+     "answer": "RDW-CV",
+     "points": 10,
+     "explain": "Tài liệu nêu RDW-CV phản ánh độ phân bố kích thước hồng cầu; RDW-CV >14% là hồng cầu to nhỏ không đồng đều.",
+     "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+     "question": "Chỉ số nào đánh giá mức độ đồng đều về kích thước của hồng cầu (độ phân bố kích thước)?",
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Dưới 130 g/l",
+     "points": 10,
+     "explain": "Bảng ngưỡng thiếu máu theo tuổi/giới trong tài liệu nêu nam ≥15 tuổi: HGB <130g/l.",
+     "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+     "question": "Theo tài liệu, ngưỡng HGB nào được dùng để xác định thiếu máu ở nam giới ≥15 tuổi?",
+     "answerAlt": "<130g/l",
+     "altAnswers": [
+      "<130g/l"
+     ],
+     "difficulty": 7.6
+    },
+    {
+     "answer": "Dưới 150 G/l",
+     "points": 10,
+     "explain": "Tài liệu nêu giá trị bình thường PLT là 150-450 G/l; dưới 150G/l là giảm tiểu cầu.",
+     "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+     "question": "Giá trị số lượng tiểu cầu (PLT) dưới ngưỡng nào được xem là giảm tiểu cầu?",
+     "answerAlt": "<150G/l",
+     "altAnswers": [
+      "<150G/l"
+     ],
+     "difficulty": 7.3
+    },
+    {
+     "answer": "Lượng huyết sắc tố trung bình trong một hồng cầu",
+     "points": 10,
+     "explain": "Tài liệu nêu MCH đánh giá hồng cầu bình sắc hoặc nhược sắc dựa trên lượng Hb trung bình mỗi hồng cầu.",
+     "subject": "Phân tích chỉ số tế bào máu ngoại vi",
+     "question": "Chỉ số MCH phản ánh điều gì của hồng cầu?",
+     "answerAlt": "Lượng Hb trung bình/hồng cầu",
+     "altAnswers": [
+      "Lượng Hb trung bình/hồng cầu"
+     ],
+     "difficulty": 7.5
+    },
+    {
+     "answer": "Hồng cầu lưới",
+     "points": 10,
+     "explain": "Tài liệu nêu hồng cầu lưới là chỉ số đánh giá khả năng đáp ứng sinh hồng cầu của tủy.",
+     "subject": "Phân tích huyết đồ",
+     "question": "Trên huyết đồ, chỉ số nào giúp đánh giá khả năng đáp ứng sinh hồng cầu của tủy xương?",
+     "answerAlt": "Reticulocyte",
+     "altAnswers": [
+      "Reticulocyte"
+     ],
+     "difficulty": 7.6
+    },
+    {
+     "answer": "So sánh các thông số với giá trị bình thường tương ứng lứa tuổi",
+     "points": 10,
+     "explain": "Tài liệu nêu bước 1 là so sánh thông số của huyết đồ với giá trị tham chiếu tương ứng lứa tuổi.",
+     "subject": "Phân tích huyết đồ",
+     "question": "Bước đầu tiên trong quy trình phân tích và biện luận một huyết đồ theo tài liệu là gì?",
+     "answerAlt": "So sánh với giá trị tham chiếu",
+     "altAnswers": [
+      "So sánh với giá trị tham chiếu"
+     ],
+     "difficulty": 7.4
+    },
+    {
+     "answer": "Lơ-xê-mi cấp",
+     "points": 10,
+     "explain": "Các mẫu huyết đồ trong tài liệu với tỷ lệ blast rất cao được kết luận là lơ-xê-mi cấp.",
+     "subject": "Phân tích huyết đồ",
+     "question": "Trong một huyết đồ có blast chiếm 78-82% công thức bạch cầu, kết luận phù hợp nhất là gì?",
+     "answerAlt": "Bệnh máu ác tính cấp",
+     "altAnswers": [
+      "Bệnh máu ác tính cấp"
+     ],
+     "difficulty": 7.9
+    },
+    {
+     "answer": "Lơ-xê-mi kinh dòng hạt",
+     "points": 10,
+     "explain": "Tài liệu mô tả huyết đồ này tương ứng với lơ-xê-mi kinh dòng bạch cầu hạt (CML).",
+     "subject": "Phân tích huyết đồ",
+     "question": "Huyết đồ có bạch cầu tăng rất cao với đủ các lứa tuổi dòng bạch cầu hạt ra máu ngoại vi gợi ý bệnh lý nào?",
+     "answerAlt": "CML",
+     "altAnswers": [
+      "CML"
+     ],
+     "difficulty": 7.8
+    },
+    {
+     "answer": "30-100 G/l",
+     "points": 10,
+     "explain": "Bảng chỉ số tủy đồ bình thường nêu số lượng tế bào tủy: 30-100 G/l.",
+     "subject": "Phân tích tủy đồ",
+     "question": "Số lượng tế bào tủy bình thường (theo tài liệu) dao động trong khoảng nào?",
+     "difficulty": 7.5
+    },
+    {
+     "answer": "≥20%",
+     "points": 10,
+     "explain": "Tài liệu nêu bệnh lơ-xê-mi cấp có tỷ lệ tế bào blast trong tủy đồ trên 20%.",
+     "subject": "Phân tích tủy đồ",
+     "question": "Theo tài liệu, tỷ lệ blast trong tủy đồ từ bao nhiêu % trở lên gợi ý chẩn đoán lơ-xê-mi cấp?",
+     "answerAlt": "20% trở lên",
+     "altAnswers": [
+      "20% trở lên"
+     ],
+     "difficulty": 7.7
+    },
+    {
+     "answer": "3-4/1",
+     "points": 10,
+     "explain": "Tài liệu nêu tỷ lệ dòng bạch cầu hạt/hồng cầu bình thường là 3-4/1.",
+     "subject": "Phân tích tủy đồ",
+     "question": "Tỷ lệ dòng bạch cầu hạt/dòng hồng cầu (tỷ lệ tủy/hồng) bình thường trong tủy xương là bao nhiêu?",
+     "difficulty": 7.6
+    },
+    {
+     "answer": "100",
+     "points": 10,
+     "explain": "Phần lượng giá của tài liệu xác định ngưỡng tăng mẫu tiểu cầu là 100.",
+     "subject": "Phân tích tủy đồ",
+     "question": "Mẫu tiểu cầu trong tủy đồ được xem là tăng khi vượt ngưỡng nào (theo lượng giá của tài liệu)?",
+     "difficulty": 7.4
+    }
+   ],
+   "groupQuestions": 12,
+   "questionsPerPlayer": 6
+  },
+  "vuotChuongNgaiVat": {
+   "rows": [
+    {
+     "clue": "Sắc tố chứa sắt hóa trị 2, chiếm khoảng 4% trọng lượng huyết sắc tố, kết hợp với 1 chuỗi globin để tạo nên một dưới đơn vị của phân tử vận chuyển oxy. Đây là thành phần gì?",
+     "answer": "Hem",
+     "points": 10
+    },
+    {
+     "clue": "Protein được tổng hợp dựa trên khuôn mẫu của gen, có 2 họ chính là họ α và họ không-α, kết hợp với hem tạo nên dưới đơn vị của huyết sắc tố. Đây là thành phần gì?",
+     "answer": "Globin",
+     "points": 10
+    },
+    {
+     "clue": "Loại huyết sắc tố chiếm ưu thế ở thai nhi (60-80% ở trẻ sơ sinh), có công thức α2γ2, giảm dần sau sinh để nhường chỗ cho huyết sắc tố trưởng thành. Đây là loại huyết sắc tố nào?",
+     "answer": "HbF (Huyết sắc tố F)",
+     "points": 10
+    },
+    {
+     "clue": "Huyết sắc tố bất thường được tạo ra do đột biến gen β làm acid glutamic ở vị trí 6 của chuỗi β bị thay thế bởi valin. Đây là loại huyết sắc tố nào?",
+     "answer": "HbS (Huyết sắc tố S)",
+     "points": 10
+    }
+   ],
+   "keyword": "HUYẾT SẮC TỐ",
+   "imageUrl": "https://xaajtrmlwzqhzrgdanjy.supabase.co/storage/v1/object/public/exam-images/70e630de-2f4a-4fb4-8cba-6a9ca0923422/1789998540155/vcnv_bg.png",
+   "centerClue": "Chiếm 32-34% thành phần hồng cầu; quyết định chức năng vận chuyển khí và có nhiều loại thay đổi theo lứa tuổi (Gower, Portland, F, A).",
+   "keywordHint": "Đại phân tử gồm 4 dưới đơn vị (2 chuỗi α + 2 chuỗi không α), mỗi đơn vị gắn 1 nhân hem, đảm nhiệm vận chuyển O2/CO2 của hồng cầu.",
+   "keywordAltAnswers": [
+    "Hemoglobin"
+   ]
+  }
+ }
+}
